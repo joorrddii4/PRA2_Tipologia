@@ -1,0 +1,892 @@
+"","PassengerId","Name","Survived","Pclass","Sex","Age","SibSp","Parch","Fare","Ticket","Title","segmento_edad","FarePerson","segmento_fare","nfamiliares"
+"1",1,"Braund, Mr. Owen Harris",0,"3","male",22,"1","0",7.25,"A/5 21171","Mr","20-29",7.25,"Bajo",3
+"2",2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",1,"1","female",38,"1","0",71.2833,"PC 17599","Mrs","30-39",71.28,"Muy elevado",3
+"3",3,"Heikkinen, Miss. Laina",1,"3","female",26,"0","0",7.925,"STON/O2. 3101282","Miss","20-29",7.92,"Medio",2
+"4",4,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",1,"1","female",35,"1","0",53.1,"113803","Mrs","30-39",26.55,"Elevado",3
+"5",5,"Allen, Mr. William Henry",0,"3","male",35,"0","0",8.05,"373450","Mr","30-39",8.05,"Medio",2
+"6",6,"Moran, Mr. James",0,"3","male",32.3680904522613,"0","0",8.4583,"330877","Mr","30-39",8.46,"Medio",2
+"7",7,"McCarthy, Mr. Timothy J",0,"1","male",54,"0","0",51.8625,"17463","Mr","50-59",51.86,"Muy elevado",2
+"8",8,"Palsson, Master. Gosta Leonard",0,"3","male",2,"3","1",21.075,"349909","Master","0-9",5.27,"Bajo",6
+"9",9,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",1,"3","female",27,"0","2",11.1333,"347742","Mrs","20-29",3.71,"Bajo",4
+"10",10,"Nasser, Mrs. Nicholas (Adele Achem)",1,"2","female",14,"1","0",30.0708,"237736","Mrs","10-19",15.04,"Medio",3
+"11",11,"Sandstrom, Miss. Marguerite Rut",1,"3","female",4,"1","1",16.7,"PP 9549","Miss","0-9",8.35,"Medio",4
+"12",12,"Bonnell, Miss. Elizabeth",1,"1","female",58,"0","0",26.55,"113783","Miss","50-59",26.55,"Elevado",2
+"13",13,"Saundercock, Mr. William Henry",0,"3","male",20,"0","0",8.05,"A/5. 2151","Mr","10-19",8.05,"Medio",2
+"14",14,"Andersson, Mr. Anders Johan",0,"3","male",39,"1","5",31.275,"347082","Mr","30-39",4.47,"Bajo",8
+"15",15,"Vestrom, Miss. Hulda Amanda Adolfina",0,"3","female",14,"0","0",7.8542,"350406","Miss","10-19",7.85,"Medio",2
+"16",16,"Hewlett, Mrs. (Mary D Kingcome) ",1,"2","female",55,"0","0",16,"248706","Mrs","50-59",16,"Medio",2
+"17",17,"Rice, Master. Eugene",0,"3","male",2,"4","1",29.125,"382652","Master","0-9",5.82,"Bajo",7
+"18",18,"Williams, Mr. Charles Eugene",1,"2","male",32.3680904522613,"0","0",13,"244373","Mr","30-39",13,"Medio",2
+"19",19,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",0,"3","female",31,"1","0",18,"345763","Mrs","30-39",18,"Medio",3
+"20",20,"Masselmani, Mrs. Fatima",1,"3","female",35.8981481481481,"0","0",7.225,"2649","Mrs","30-39",7.22,"Bajo",2
+"21",21,"Fynney, Mr. Joseph J",0,"2","male",35,"0","0",26,"239865","Mr","30-39",13,"Medio",2
+"22",22,"Beesley, Mr. Lawrence",1,"2","male",34,"0","0",13,"248698","Mr","30-39",13,"Medio",2
+"23",23,"McGowan, Miss. Anna ""Annie""",1,"3","female",15,"0","0",8.0292,"330923","Miss","10-19",8.03,"Medio",2
+"24",24,"Sloper, Mr. William Thompson",1,"1","male",28,"0","0",35.5,"113788","Mr","20-29",35.5,"Elevado",2
+"25",25,"Palsson, Miss. Torborg Danira",0,"3","female",8,"3","1",21.075,"349909","Miss","0-9",5.27,"Bajo",6
+"26",26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",1,"3","female",38,"1","5",31.3875,"347077","Mrs","30-39",7.85,"Medio",8
+"27",27,"Emir, Mr. Farred Chehab",0,"3","male",32.3680904522613,"0","0",7.225,"2631","Mr","30-39",7.22,"Bajo",2
+"28",28,"Fortune, Mr. Charles Alexander",0,"1","male",19,"3","2",263,"19950","Mr","10-19",65.75,"Muy elevado",7
+"29",29,"O'Dwyer, Miss. Ellen ""Nellie""",1,"3","female",21.7739726027397,"0","0",7.8792,"330959","Miss","20-29",7.88,"Medio",2
+"30",30,"Todoroff, Mr. Lalio",0,"3","male",32.3680904522613,"0","0",7.8958,"349216","Mr","30-39",7.9,"Medio",2
+"31",31,"Uruchurtu, Don. Manuel E",0,"1","male",40,"0","0",27.7208,"PC 17601","Other","30-39",27.72,"Elevado",2
+"32",32,"Spencer, Mrs. William Augustus (Marie Eugenie)",1,"1","female",35.8981481481481,"1","0",146.5208,"PC 17569","Mrs","30-39",73.26,"Muy elevado",3
+"33",33,"Glynn, Miss. Mary Agatha",1,"3","female",21.7739726027397,"0","0",7.75,"335677","Miss","20-29",7.75,"Medio",2
+"34",34,"Wheadon, Mr. Edward H",0,"2","male",66,"0","0",10.5,"C.A. 24579","Mr","60-69",10.5,"Medio",2
+"35",35,"Meyer, Mr. Edgar Joseph",0,"1","male",28,"1","0",82.1708,"PC 17604","Mr","20-29",41.09,"Elevado",3
+"36",36,"Holverson, Mr. Alexander Oskar",0,"1","male",42,"1","0",52,"113789","Mr","40-49",26,"Elevado",3
+"37",37,"Mamee, Mr. Hanna",1,"3","male",32.3680904522613,"0","0",7.2292,"2677","Mr","30-39",7.23,"Bajo",2
+"38",38,"Cann, Mr. Ernest Charles",0,"3","male",21,"0","0",8.05,"A./5. 2152","Mr","20-29",8.05,"Medio",2
+"39",39,"Vander Planke, Miss. Augusta Maria",0,"3","female",18,"2","0",18,"345764","Miss","10-19",9,"Medio",4
+"40",40,"Nicola-Yarred, Miss. Jamila",1,"3","female",14,"1","0",11.2417,"2651","Miss","10-19",5.62,"Bajo",3
+"41",41,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",0,"3","female",40,"1","0",9.475,"7546","Mrs","30-39",9.47,"Medio",3
+"42",42,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",0,"2","female",27,"1","0",21,"11668","Mrs","20-29",10.5,"Medio",3
+"43",43,"Kraeff, Mr. Theodor",0,"3","male",32.3680904522613,"0","0",7.8958,"349253","Mr","30-39",7.9,"Medio",2
+"44",44,"Laroche, Miss. Simonne Marie Anne Andree",1,"2","female",3,"1","2",41.5792,"SC/Paris 2123","Miss","0-9",13.86,"Medio",5
+"45",45,"Devaney, Miss. Margaret Delia",1,"3","female",19,"0","0",7.8792,"330958","Miss","10-19",7.88,"Medio",2
+"46",46,"Rogers, Mr. William John",0,"3","male",32.3680904522613,"0","0",8.05,"S.C./A.4. 23567","Mr","30-39",8.05,"Medio",2
+"47",47,"Lennon, Mr. Denis",0,"3","male",32.3680904522613,"1","0",15.5,"370371","Mr","30-39",15.5,"Medio",3
+"48",48,"O'Driscoll, Miss. Bridget",1,"3","female",21.7739726027397,"0","0",7.75,"14311","Miss","20-29",7.75,"Medio",2
+"49",49,"Samaan, Mr. Youssef",0,"3","male",32.3680904522613,"2","0",21.6792,"2662","Mr","30-39",21.68,"Medio",4
+"50",50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",0,"3","female",18,"1","0",17.8,"349237","Mrs","10-19",8.9,"Medio",3
+"51",51,"Panula, Master. Juha Niilo",0,"3","male",7,"4","1",39.6875,"3101295","Master","0-9",6.61,"Bajo",7
+"52",52,"Nosworthy, Mr. Richard Cater",0,"3","male",21,"0","0",7.8,"A/4. 39886","Mr","20-29",7.8,"Medio",2
+"53",53,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",1,"1","female",49,"1","0",76.7292,"PC 17572","Mrs","40-49",25.58,"Elevado",3
+"54",54,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",1,"2","female",29,"1","0",26,"2926","Mrs","20-29",26,"Elevado",3
+"55",55,"Ostby, Mr. Engelhart Cornelius",0,"1","male",65,"0","1",61.9792,"113509","Mr","60-69",61.98,"Muy elevado",3
+"56",56,"Woolner, Mr. Hugh",1,"1","male",32.3680904522613,"0","0",35.5,"19947","Mr","30-39",35.5,"Elevado",2
+"57",57,"Rugg, Miss. Emily",1,"2","female",21,"0","0",10.5,"C.A. 31026","Miss","20-29",10.5,"Medio",2
+"58",58,"Novel, Mr. Mansouer",0,"3","male",28.5,"0","0",7.2292,"2697","Mr","20-29",7.23,"Bajo",2
+"59",59,"West, Miss. Constance Mirium",1,"2","female",5,"1","2",27.75,"C.A. 34651","Miss","0-9",9.25,"Medio",5
+"60",60,"Goodwin, Master. William Frederick",0,"3","male",11,"5","2",46.9,"CA 2144","Master","10-19",7.82,"Medio",9
+"61",61,"Sirayanian, Mr. Orsen",0,"3","male",22,"0","0",7.2292,"2669","Mr","20-29",7.23,"Bajo",2
+"62",62,"Icard, Miss. Amelie",1,"1","female",38,"0","0",80,"113572","Miss","30-39",40,"Elevado",2
+"63",63,"Harris, Mr. Henry Birkhardt",0,"1","male",45,"1","0",83.475,"36973","Mr","40-49",41.74,"Elevado",3
+"64",64,"Skoog, Master. Harald",0,"3","male",4,"3","2",27.9,"347088","Master","0-9",4.65,"Bajo",7
+"65",65,"Stewart, Mr. Albert A",0,"1","male",32.3680904522613,"0","0",27.7208,"PC 17605","Mr","30-39",27.72,"Elevado",2
+"66",66,"Moubarek, Master. Gerios",1,"3","male",5,"1","1",15.2458,"2661","Master","0-9",7.62,"Bajo",4
+"67",67,"Nye, Mrs. (Elizabeth Ramell)",1,"2","female",29,"0","0",10.5,"C.A. 29395","Mrs","20-29",10.5,"Medio",2
+"68",68,"Crease, Mr. Ernest James",0,"3","male",19,"0","0",8.1583,"S.P. 3464","Mr","10-19",8.16,"Medio",2
+"69",69,"Andersson, Miss. Erna Alexandra",1,"3","female",17,"4","2",7.925,"3101281","Miss","10-19",7.92,"Medio",8
+"70",70,"Kink, Mr. Vincenz",0,"3","male",26,"2","0",8.6625,"315151","Mr","20-29",8.66,"Medio",4
+"71",71,"Jenkin, Mr. Stephen Curnow",0,"2","male",32,"0","0",10.5,"C.A. 33111","Mr","30-39",10.5,"Medio",2
+"72",72,"Goodwin, Miss. Lillian Amy",0,"3","female",16,"5","2",46.9,"CA 2144","Miss","10-19",7.82,"Medio",9
+"73",73,"Hood, Mr. Ambrose Jr",0,"2","male",21,"0","0",73.5,"S.O.C. 14879","Mr","20-29",14.7,"Medio",2
+"74",74,"Chronopoulos, Mr. Apostolos",0,"3","male",26,"1","0",14.4542,"2680","Mr","20-29",14.45,"Medio",3
+"75",75,"Bing, Mr. Lee",1,"3","male",32,"0","0",56.4958,"1601","Mr","30-39",8.07,"Medio",2
+"76",76,"Moen, Mr. Sigurd Hansen",0,"3","male",25,"0","0",7.65,"348123","Mr","20-29",7.65,"Bajo",2
+"77",77,"Staneff, Mr. Ivan",0,"3","male",32.3680904522613,"0","0",7.8958,"349208","Mr","30-39",7.9,"Medio",2
+"78",78,"Moutal, Mr. Rahamin Haim",0,"3","male",32.3680904522613,"0","0",8.05,"374746","Mr","30-39",8.05,"Medio",2
+"79",79,"Caldwell, Master. Alden Gates",1,"2","male",0.83,"0","2",29,"248738","Master","0-9",14.5,"Medio",4
+"80",80,"Dowdell, Miss. Elizabeth",1,"3","female",30,"0","0",12.475,"364516","Miss","20-29",6.24,"Bajo",2
+"81",81,"Waelens, Mr. Achille",0,"3","male",22,"0","0",9,"345767","Mr","20-29",9,"Medio",2
+"82",82,"Sheerlinck, Mr. Jan Baptist",1,"3","male",29,"0","0",9.5,"345779","Mr","20-29",9.5,"Medio",2
+"83",83,"McDermott, Miss. Brigdet Delia",1,"3","female",21.7739726027397,"0","0",7.7875,"330932","Miss","20-29",7.79,"Medio",2
+"84",84,"Carrau, Mr. Francisco M",0,"1","male",28,"0","0",47.1,"113059","Mr","20-29",47.1,"Elevado",2
+"85",85,"Ilett, Miss. Bertha",1,"2","female",17,"0","0",10.5,"SO/C 14885","Miss","10-19",10.5,"Medio",2
+"86",86,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",1,"3","female",33,"3","0",15.85,"3101278","Mrs","30-39",7.92,"Medio",5
+"87",87,"Ford, Mr. William Neal",0,"3","male",16,"1","3",34.375,"W./C. 6608","Mr","10-19",8.59,"Medio",6
+"88",88,"Slocovski, Mr. Selman Francis",0,"3","male",32.3680904522613,"0","0",8.05,"SOTON/OQ 392086","Mr","30-39",8.05,"Medio",2
+"89",89,"Fortune, Miss. Mabel Helen",1,"1","female",23,"3","2",263,"19950","Miss","20-29",65.75,"Muy elevado",7
+"90",90,"Celotti, Mr. Francesco",0,"3","male",24,"0","0",8.05,"343275","Mr","20-29",8.05,"Medio",2
+"91",91,"Christmann, Mr. Emil",0,"3","male",29,"0","0",8.05,"343276","Mr","20-29",8.05,"Medio",2
+"92",92,"Andreasson, Mr. Paul Edvin",0,"3","male",20,"0","0",7.8542,"347466","Mr","10-19",7.85,"Medio",2
+"93",93,"Chaffee, Mr. Herbert Fuller",0,"1","male",46,"1","0",61.175,"W.E.P. 5734","Mr","40-49",61.17,"Muy elevado",3
+"94",94,"Dean, Mr. Bertram Frank",0,"3","male",26,"1","2",20.575,"C.A. 2315","Mr","20-29",10.29,"Medio",5
+"95",95,"Coxon, Mr. Daniel",0,"3","male",59,"0","0",7.25,"364500","Mr","50-59",7.25,"Bajo",2
+"96",96,"Shorney, Mr. Charles Joseph",0,"3","male",32.3680904522613,"0","0",8.05,"374910","Mr","30-39",8.05,"Medio",2
+"97",97,"Goldschmidt, Mr. George B",0,"1","male",71,"0","0",34.6542,"PC 17754","Mr","70-80",34.65,"Elevado",2
+"98",98,"Greenfield, Mr. William Bertram",1,"1","male",23,"0","1",63.3583,"PC 17759","Mr","20-29",63.36,"Muy elevado",3
+"99",99,"Doling, Mrs. John T (Ada Julia Bone)",1,"2","female",34,"0","1",23,"231919","Mrs","30-39",11.5,"Medio",3
+"100",100,"Kantor, Mr. Sinai",0,"2","male",34,"1","0",26,"244367","Mr","30-39",13,"Medio",3
+"101",101,"Petranec, Miss. Matilda",0,"3","female",28,"0","0",7.8958,"349245","Miss","20-29",7.9,"Medio",2
+"102",102,"Petroff, Mr. Pastcho (""Pentcho"")",0,"3","male",32.3680904522613,"0","0",7.8958,"349215","Mr","30-39",7.9,"Medio",2
+"103",103,"White, Mr. Richard Frasar",0,"1","male",21,"0","1",77.2875,"35281","Mr","20-29",38.64,"Elevado",3
+"104",104,"Johansson, Mr. Gustaf Joel",0,"3","male",33,"0","0",8.6542,"7540","Mr","30-39",8.65,"Medio",2
+"105",105,"Gustafsson, Mr. Anders Vilhelm",0,"3","male",37,"2","0",7.925,"3101276","Mr","30-39",7.92,"Medio",4
+"106",106,"Mionoff, Mr. Stoytcho",0,"3","male",28,"0","0",7.8958,"349207","Mr","20-29",7.9,"Medio",2
+"107",107,"Salkjelsvik, Miss. Anna Kristine",1,"3","female",21,"0","0",7.65,"343120","Miss","20-29",7.65,"Bajo",2
+"108",108,"Moss, Mr. Albert Johan",1,"3","male",32.3680904522613,"0","0",7.775,"312991","Mr","30-39",7.78,"Medio",2
+"109",109,"Rekic, Mr. Tido",0,"3","male",38,"0","0",7.8958,"349249","Mr","30-39",7.9,"Medio",2
+"110",110,"Moran, Miss. Bertha",1,"3","female",21.7739726027397,"1","0",24.15,"371110","Miss","20-29",8.05,"Medio",3
+"111",111,"Porter, Mr. Walter Chamberlain",0,"1","male",47,"0","0",52,"110465","Mr","40-49",26,"Elevado",2
+"112",112,"Zabour, Miss. Hileni",0,"3","female",14.5,"1","0",14.4542,"2665","Miss","10-19",7.23,"Bajo",3
+"113",113,"Barton, Mr. David John",0,"3","male",22,"0","0",8.05,"324669","Mr","20-29",8.05,"Medio",2
+"114",114,"Jussila, Miss. Katriina",0,"3","female",20,"1","0",9.825,"4136","Miss","10-19",9.82,"Medio",3
+"115",115,"Attalah, Miss. Malake",0,"3","female",17,"0","0",14.4583,"2627","Miss","10-19",7.23,"Bajo",2
+"116",116,"Pekoniemi, Mr. Edvard",0,"3","male",21,"0","0",7.925,"STON/O 2. 3101294","Mr","20-29",7.92,"Medio",2
+"117",117,"Connors, Mr. Patrick",0,"3","male",70.5,"0","0",7.75,"370369","Mr","70-80",7.75,"Medio",2
+"118",118,"Turpin, Mr. William John Robert",0,"2","male",29,"1","0",21,"11668","Mr","20-29",10.5,"Medio",3
+"119",119,"Baxter, Mr. Quigg Edmond",0,"1","male",24,"0","1",247.5208,"PC 17558","Mr","20-29",123.76,"Muy elevado",3
+"120",120,"Andersson, Miss. Ellis Anna Maria",0,"3","female",2,"4","2",31.275,"347082","Miss","0-9",4.47,"Bajo",8
+"121",121,"Hickman, Mr. Stanley George",0,"2","male",21,"2","0",73.5,"S.O.C. 14879","Mr","20-29",14.7,"Medio",4
+"122",122,"Moore, Mr. Leonard Charles",0,"3","male",32.3680904522613,"0","0",8.05,"A4. 54510","Mr","30-39",8.05,"Medio",2
+"123",123,"Nasser, Mr. Nicholas",0,"2","male",32.5,"1","0",30.0708,"237736","Mr","30-39",15.04,"Medio",3
+"124",124,"Webber, Miss. Susan",1,"2","female",32.5,"0","0",13,"27267","Miss","30-39",13,"Medio",2
+"125",125,"White, Mr. Percival Wayland",0,"1","male",54,"0","1",77.2875,"35281","Mr","50-59",38.64,"Elevado",3
+"126",126,"Nicola-Yarred, Master. Elias",1,"3","male",12,"1","0",11.2417,"2651","Master","10-19",5.62,"Bajo",3
+"127",127,"McMahon, Mr. Martin",0,"3","male",32.3680904522613,"0","0",7.75,"370372","Mr","30-39",7.75,"Medio",2
+"128",128,"Madsen, Mr. Fridtjof Arne",1,"3","male",24,"0","0",7.1417,"C 17369","Mr","20-29",7.14,"Bajo",2
+"129",129,"Peter, Miss. Anna",1,"3","female",21.7739726027397,"1","1",22.3583,"2668","Miss","20-29",11.18,"Medio",4
+"130",130,"Ekstrom, Mr. Johan",0,"3","male",45,"0","0",6.975,"347061","Mr","40-49",6.97,"Bajo",2
+"131",131,"Drazenoic, Mr. Jozef",0,"3","male",33,"0","0",7.8958,"349241","Mr","30-39",7.9,"Medio",2
+"132",132,"Coelho, Mr. Domingos Fernandeo",0,"3","male",20,"0","0",7.05,"SOTON/O.Q. 3101307","Mr","10-19",7.05,"Bajo",2
+"133",133,"Robins, Mrs. Alexander A (Grace Charity Laury)",0,"3","female",47,"1","0",14.5,"A/5. 3337","Mrs","40-49",14.5,"Medio",3
+"134",134,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",1,"2","female",29,"1","0",26,"228414","Mrs","20-29",26,"Elevado",3
+"135",135,"Sobey, Mr. Samuel James Hayden",0,"2","male",25,"0","0",13,"C.A. 29178","Mr","20-29",13,"Medio",2
+"136",136,"Richard, Mr. Emile",0,"2","male",23,"0","0",15.0458,"SC/PARIS 2133","Mr","20-29",15.05,"Medio",2
+"137",137,"Newsom, Miss. Helen Monypeny",1,"1","female",19,"0","2",26.2833,"11752","Miss","10-19",26.28,"Elevado",4
+"138",138,"Futrelle, Mr. Jacques Heath",0,"1","male",37,"1","0",53.1,"113803","Mr","30-39",26.55,"Elevado",3
+"139",139,"Osen, Mr. Olaf Elon",0,"3","male",16,"0","0",9.2167,"7534","Mr","10-19",4.61,"Bajo",2
+"140",140,"Giglio, Mr. Victor",0,"1","male",24,"0","0",79.2,"PC 17593","Mr","20-29",39.6,"Elevado",2
+"141",141,"Boulos, Mrs. Joseph (Sultana)",0,"3","female",35.8981481481481,"0","2",15.2458,"2678","Mrs","30-39",7.62,"Bajo",4
+"142",142,"Nysten, Miss. Anna Sofia",1,"3","female",22,"0","0",7.75,"347081","Miss","20-29",7.75,"Medio",2
+"143",143,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",1,"3","female",24,"1","0",15.85,"STON/O2. 3101279","Mrs","20-29",7.92,"Medio",3
+"144",144,"Burke, Mr. Jeremiah",0,"3","male",19,"0","0",6.75,"365222","Mr","10-19",6.75,"Bajo",2
+"145",145,"Andrew, Mr. Edgardo Samuel",0,"2","male",18,"0","0",11.5,"231945","Mr","10-19",11.5,"Medio",2
+"146",146,"Nicholls, Mr. Joseph Charles",0,"2","male",19,"1","1",36.75,"C.A. 33112","Mr","10-19",18.38,"Medio",4
+"147",147,"Andersson, Mr. August Edvard (""Wennerstrom"")",1,"3","male",27,"0","0",7.7958,"350043","Mr","20-29",7.8,"Medio",2
+"148",148,"Ford, Miss. Robina Maggie ""Ruby""",0,"3","female",9,"2","2",34.375,"W./C. 6608","Miss","0-9",8.59,"Medio",6
+"149",149,"Navratil, Mr. Michel (""Louis M Hoffman"")",0,"2","male",36.5,"0","2",26,"230080","Mr","30-39",8.67,"Medio",4
+"150",150,"Byles, Rev. Thomas Roussel Davids",0,"2","male",42,"0","0",13,"244310","Other","40-49",13,"Medio",2
+"151",151,"Bateman, Rev. Robert James",0,"2","male",51,"0","0",12.525,"S.O.P. 1166","Other","50-59",12.53,"Medio",2
+"152",152,"Pears, Mrs. Thomas (Edith Wearne)",1,"1","female",22,"1","0",66.6,"113776","Mrs","20-29",33.3,"Elevado",3
+"153",153,"Meo, Mr. Alfonzo",0,"3","male",55.5,"0","0",8.05,"A.5. 11206","Mr","50-59",8.05,"Medio",2
+"154",154,"van Billiard, Mr. Austin Blyler",0,"3","male",40.5,"0","2",14.5,"A/5. 851","Mr","40-49",14.5,"Medio",4
+"155",155,"Olsen, Mr. Ole Martin",0,"3","male",32.3680904522613,"0","0",7.3125,"Fa 265302","Mr","30-39",7.31,"Bajo",2
+"156",156,"Williams, Mr. Charles Duane",0,"1","male",51,"0","1",61.3792,"PC 17597","Mr","50-59",61.38,"Muy elevado",3
+"157",157,"Gilnagh, Miss. Katherine ""Katie""",1,"3","female",16,"0","0",7.7333,"35851","Miss","10-19",7.73,"Medio",2
+"158",158,"Corn, Mr. Harry",0,"3","male",30,"0","0",8.05,"SOTON/OQ 392090","Mr","20-29",8.05,"Medio",2
+"159",159,"Smiljanic, Mr. Mile",0,"3","male",32.3680904522613,"0","0",8.6625,"315037","Mr","30-39",8.66,"Medio",2
+"160",160,"Sage, Master. Thomas Henry",0,"3","male",5,"8","2",69.55,"CA. 2343","Master","0-9",9.94,"Medio",10
+"161",161,"Cribb, Mr. John Hatfield",0,"3","male",44,"0","1",16.1,"371362","Mr","40-49",16.1,"Medio",3
+"162",162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",1,"2","female",40,"0","0",15.75,"C.A. 33595","Mrs","30-39",15.75,"Medio",2
+"163",163,"Bengtsson, Mr. John Viktor",0,"3","male",26,"0","0",7.775,"347068","Mr","20-29",7.78,"Medio",2
+"164",164,"Calic, Mr. Jovo",0,"3","male",17,"0","0",8.6625,"315093","Mr","10-19",8.66,"Medio",2
+"165",165,"Panula, Master. Eino Viljami",0,"3","male",1,"4","1",39.6875,"3101295","Master","0-9",6.61,"Bajo",7
+"166",166,"Goldsmith, Master. Frank John William ""Frankie""",1,"3","male",9,"0","2",20.525,"363291","Master","0-9",6.84,"Bajo",4
+"167",167,"Chibnall, Mrs. (Edith Martha Bowerman)",1,"1","female",35.8981481481481,"0","1",55,"113505","Mrs","30-39",27.5,"Elevado",3
+"168",168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",0,"3","female",45,"1","4",27.9,"347088","Mrs","40-49",4.65,"Bajo",7
+"169",169,"Baumann, Mr. John D",0,"1","male",32.3680904522613,"0","0",25.925,"PC 17318","Mr","30-39",25.92,"Elevado",2
+"170",170,"Ling, Mr. Lee",0,"3","male",28,"0","0",56.4958,"1601","Mr","20-29",8.07,"Medio",2
+"171",171,"Van der hoef, Mr. Wyckoff",0,"1","male",61,"0","0",33.5,"111240","Mr","60-69",33.5,"Elevado",2
+"172",172,"Rice, Master. Arthur",0,"3","male",4,"4","1",29.125,"382652","Master","0-9",5.82,"Bajo",7
+"173",173,"Johnson, Miss. Eleanor Ileen",1,"3","female",1,"1","1",11.1333,"347742","Miss","0-9",3.71,"Bajo",4
+"174",174,"Sivola, Mr. Antti Wilhelm",0,"3","male",21,"0","0",7.925,"STON/O 2. 3101280","Mr","20-29",7.92,"Medio",2
+"175",175,"Smith, Mr. James Clinch",0,"1","male",56,"0","0",30.6958,"17764","Mr","50-59",30.7,"Elevado",2
+"176",176,"Klasen, Mr. Klas Albin",0,"3","male",18,"1","1",7.8542,"350404","Mr","10-19",7.85,"Medio",4
+"177",177,"Lefebre, Master. Henry Forbes",0,"3","male",5,"3","1",25.4667,"4133","Master","0-9",6.37,"Bajo",6
+"178",178,"Isham, Miss. Ann Elizabeth",0,"1","female",50,"0","0",28.7125,"PC 17595","Miss","40-49",28.71,"Elevado",2
+"179",179,"Hale, Mr. Reginald",0,"2","male",30,"0","0",13,"250653","Mr","20-29",13,"Medio",2
+"180",180,"Leonard, Mr. Lionel",0,"3","male",36,"0","0",0,"LINE","Mr","30-39",0,NA,2
+"181",181,"Sage, Miss. Constance Gladys",0,"3","female",21.7739726027397,"8","2",69.55,"CA. 2343","Miss","20-29",9.94,"Medio",10
+"182",182,"Pernot, Mr. Rene",0,"2","male",32.3680904522613,"0","0",15.05,"SC/PARIS 2131","Mr","30-39",15.05,"Medio",2
+"183",183,"Asplund, Master. Clarence Gustaf Hugo",0,"3","male",9,"4","2",31.3875,"347077","Master","0-9",7.85,"Medio",8
+"184",184,"Becker, Master. Richard F",1,"2","male",1,"2","1",39,"230136","Master","0-9",19.5,"Medio",5
+"185",185,"Kink-Heilmann, Miss. Luise Gretchen",1,"3","female",4,"0","2",22.025,"315153","Miss","0-9",22.02,"Medio",4
+"186",186,"Rood, Mr. Hugh Roscoe",0,"1","male",32.3680904522613,"0","0",50,"113767","Mr","30-39",50,"Muy elevado",2
+"187",187,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",1,"3","female",35.8981481481481,"1","0",15.5,"370365","Mrs","30-39",7.75,"Medio",3
+"188",188,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",1,"1","male",45,"0","0",26.55,"111428","Mr","40-49",26.55,"Elevado",2
+"189",189,"Bourke, Mr. John",0,"3","male",40,"1","1",15.5,"364849","Mr","30-39",7.75,"Medio",4
+"190",190,"Turcin, Mr. Stjepan",0,"3","male",36,"0","0",7.8958,"349247","Mr","30-39",7.9,"Medio",2
+"191",191,"Pinsky, Mrs. (Rosa)",1,"2","female",32,"0","0",13,"234604","Mrs","30-39",13,"Medio",2
+"192",192,"Carbines, Mr. William",0,"2","male",19,"0","0",13,"28424","Mr","10-19",13,"Medio",2
+"193",193,"Andersen-Jensen, Miss. Carla Christine Nielsine",1,"3","female",19,"1","0",7.8542,"350046","Miss","10-19",7.85,"Medio",3
+"194",194,"Navratil, Master. Michel M",1,"2","male",3,"1","1",26,"230080","Master","0-9",8.67,"Medio",4
+"195",195,"Brown, Mrs. James Joseph (Margaret Tobin)",1,"1","female",44,"0","0",27.7208,"PC 17610","Mrs","40-49",27.72,"Elevado",2
+"196",196,"Lurette, Miss. Elise",1,"1","female",58,"0","0",146.5208,"PC 17569","Miss","50-59",73.26,"Muy elevado",2
+"197",197,"Mernagh, Mr. Robert",0,"3","male",32.3680904522613,"0","0",7.75,"368703","Mr","30-39",7.75,"Medio",2
+"198",198,"Olsen, Mr. Karl Siegwart Andreas",0,"3","male",42,"0","1",8.4042,"4579","Mr","40-49",8.4,"Medio",3
+"199",199,"Madigan, Miss. Margaret ""Maggie""",1,"3","female",21.7739726027397,"0","0",7.75,"370370","Miss","20-29",7.75,"Medio",2
+"200",200,"Yrois, Miss. Henriette (""Mrs Harbeck"")",0,"2","female",24,"0","0",13,"248747","Miss","20-29",13,"Medio",2
+"201",201,"Vande Walle, Mr. Nestor Cyriel",0,"3","male",28,"0","0",9.5,"345770","Mr","20-29",9.5,"Medio",2
+"202",202,"Sage, Mr. Frederick",0,"3","male",32.3680904522613,"8","2",69.55,"CA. 2343","Mr","30-39",9.94,"Medio",10
+"203",203,"Johanson, Mr. Jakob Alfred",0,"3","male",34,"0","0",6.4958,"3101264","Mr","30-39",6.5,"Bajo",2
+"204",204,"Youseff, Mr. Gerious",0,"3","male",45.5,"0","0",7.225,"2628","Mr","40-49",7.22,"Bajo",2
+"205",205,"Cohen, Mr. Gurshon ""Gus""",1,"3","male",18,"0","0",8.05,"A/5 3540","Mr","10-19",8.05,"Medio",2
+"206",206,"Strom, Miss. Telma Matilda",0,"3","female",2,"0","1",10.4625,"347054","Miss","0-9",5.23,"Bajo",3
+"207",207,"Backstrom, Mr. Karl Alfred",0,"3","male",32,"1","0",15.85,"3101278","Mr","30-39",7.92,"Medio",3
+"208",208,"Albimona, Mr. Nassef Cassem",1,"3","male",26,"0","0",18.7875,"2699","Mr","20-29",9.39,"Medio",2
+"209",209,"Carr, Miss. Helen ""Ellen""",1,"3","female",16,"0","0",7.75,"367231","Miss","10-19",7.75,"Medio",2
+"210",210,"Blank, Mr. Henry",1,"1","male",40,"0","0",31,"112277","Mr","30-39",31,"Elevado",2
+"211",211,"Ali, Mr. Ahmed",0,"3","male",24,"0","0",7.05,"SOTON/O.Q. 3101311","Mr","20-29",7.05,"Bajo",2
+"212",212,"Cameron, Miss. Clear Annie",1,"2","female",35,"0","0",21,"F.C.C. 13528","Miss","30-39",21,"Medio",2
+"213",213,"Perkin, Mr. John Henry",0,"3","male",22,"0","0",7.25,"A/5 21174","Mr","20-29",7.25,"Bajo",2
+"214",214,"Givard, Mr. Hans Kristensen",0,"2","male",30,"0","0",13,"250646","Mr","20-29",13,"Medio",2
+"215",215,"Kiernan, Mr. Philip",0,"3","male",32.3680904522613,"1","0",7.75,"367229","Mr","30-39",7.75,"Medio",3
+"216",216,"Newell, Miss. Madeleine",1,"1","female",31,"1","0",113.275,"35273","Miss","30-39",37.76,"Elevado",3
+"217",217,"Honkanen, Miss. Eliina",1,"3","female",27,"0","0",7.925,"STON/O2. 3101283","Miss","20-29",7.92,"Medio",2
+"218",218,"Jacobsohn, Mr. Sidney Samuel",0,"2","male",42,"1","0",27,"243847","Mr","40-49",13.5,"Medio",3
+"219",219,"Bazzani, Miss. Albina",1,"1","female",32,"0","0",76.2917,"11813","Miss","30-39",76.29,"Muy elevado",2
+"220",220,"Harris, Mr. Walter",0,"2","male",30,"0","0",10.5,"W/C 14208","Mr","20-29",10.5,"Medio",2
+"221",221,"Sunderland, Mr. Victor Francis",1,"3","male",16,"0","0",8.05,"SOTON/OQ 392089","Mr","10-19",8.05,"Medio",2
+"222",222,"Bracken, Mr. James H",0,"2","male",27,"0","0",13,"220367","Mr","20-29",13,"Medio",2
+"223",223,"Green, Mr. George Henry",0,"3","male",51,"0","0",8.05,"21440","Mr","50-59",8.05,"Medio",2
+"224",224,"Nenkoff, Mr. Christo",0,"3","male",32.3680904522613,"0","0",7.8958,"349234","Mr","30-39",7.9,"Medio",2
+"225",225,"Hoyt, Mr. Frederick Maxfield",1,"1","male",38,"1","0",90,"19943","Mr","30-39",45,"Elevado",3
+"226",226,"Berglund, Mr. Karl Ivar Sven",0,"3","male",22,"0","0",9.35,"PP 4348","Mr","20-29",9.35,"Medio",2
+"227",227,"Mellors, Mr. William John",1,"2","male",19,"0","0",10.5,"SW/PP 751","Mr","10-19",10.5,"Medio",2
+"228",228,"Lovell, Mr. John Hall (""Henry"")",0,"3","male",20.5,"0","0",7.25,"A/5 21173","Mr","20-29",7.25,"Bajo",2
+"229",229,"Fahlstrom, Mr. Arne Jonas",0,"2","male",18,"0","0",13,"236171","Mr","10-19",13,"Medio",2
+"230",230,"Lefebre, Miss. Mathilde",0,"3","female",21.7739726027397,"3","1",25.4667,"4133","Miss","20-29",6.37,"Bajo",6
+"231",231,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",1,"1","female",35,"1","0",83.475,"36973","Mrs","30-39",41.74,"Elevado",3
+"232",232,"Larsson, Mr. Bengt Edvin",0,"3","male",29,"0","0",7.775,"347067","Mr","20-29",7.78,"Medio",2
+"233",233,"Sjostedt, Mr. Ernst Adolf",0,"2","male",59,"0","0",13.5,"237442","Mr","50-59",13.5,"Medio",2
+"234",234,"Asplund, Miss. Lillian Gertrud",1,"3","female",5,"4","2",31.3875,"347077","Miss","0-9",7.85,"Medio",8
+"235",235,"Leyson, Mr. Robert William Norman",0,"2","male",24,"0","0",10.5,"C.A. 29566","Mr","20-29",10.5,"Medio",2
+"236",236,"Harknett, Miss. Alice Phoebe",0,"3","female",21.7739726027397,"0","0",7.55,"W./C. 6609","Miss","20-29",7.55,"Bajo",2
+"237",237,"Hold, Mr. Stephen",0,"2","male",44,"1","0",26,"26707","Mr","40-49",26,"Elevado",3
+"238",238,"Collyer, Miss. Marjorie ""Lottie""",1,"2","female",8,"0","2",26.25,"C.A. 31921","Miss","0-9",8.75,"Medio",4
+"239",239,"Pengelly, Mr. Frederick William",0,"2","male",19,"0","0",10.5,"28665","Mr","10-19",10.5,"Medio",2
+"240",240,"Hunt, Mr. George Henry",0,"2","male",33,"0","0",12.275,"SCO/W 1585","Mr","30-39",12.28,"Medio",2
+"241",241,"Zabour, Miss. Thamine",0,"3","female",21.7739726027397,"1","0",14.4542,"2665","Miss","20-29",7.23,"Bajo",3
+"242",242,"Murphy, Miss. Katherine ""Kate""",1,"3","female",21.7739726027397,"1","0",15.5,"367230","Miss","20-29",7.75,"Medio",3
+"243",243,"Coleridge, Mr. Reginald Charles",0,"2","male",29,"0","0",10.5,"W./C. 14263","Mr","20-29",10.5,"Medio",2
+"244",244,"Maenpaa, Mr. Matti Alexanteri",0,"3","male",22,"0","0",7.125,"STON/O 2. 3101275","Mr","20-29",7.12,"Bajo",2
+"245",245,"Attalah, Mr. Sleiman",0,"3","male",30,"0","0",7.225,"2694","Mr","20-29",7.22,"Bajo",2
+"246",246,"Minahan, Dr. William Edward",0,"1","male",44,"2","0",90,"19928","Other","40-49",45,"Elevado",4
+"247",247,"Lindahl, Miss. Agda Thorilda Viktoria",0,"3","female",25,"0","0",7.775,"347071","Miss","20-29",7.78,"Medio",2
+"248",248,"Hamalainen, Mrs. William (Anna)",1,"2","female",24,"0","2",14.5,"250649","Mrs","20-29",7.25,"Bajo",4
+"249",249,"Beckwith, Mr. Richard Leonard",1,"1","male",37,"1","1",52.5542,"11751","Mr","30-39",26.28,"Elevado",4
+"250",250,"Carter, Rev. Ernest Courtenay",0,"2","male",54,"1","0",26,"244252","Other","50-59",13,"Medio",3
+"251",251,"Reed, Mr. James George",0,"3","male",32.3680904522613,"0","0",7.25,"362316","Mr","30-39",7.25,"Bajo",2
+"252",252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",0,"3","female",29,"1","1",10.4625,"347054","Mrs","20-29",5.23,"Bajo",4
+"253",253,"Stead, Mr. William Thomas",0,"1","male",62,"0","0",26.55,"113514","Mr","60-69",26.55,"Elevado",2
+"254",254,"Lobb, Mr. William Arthur",0,"3","male",30,"1","0",16.1,"A/5. 3336","Mr","20-29",8.05,"Medio",3
+"255",255,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",0,"3","female",41,"0","2",20.2125,"370129","Mrs","40-49",10.11,"Medio",4
+"256",256,"Touma, Mrs. Darwis (Hanne Youssef Razi)",1,"3","female",29,"0","2",15.2458,"2650","Mrs","20-29",15.25,"Medio",4
+"257",257,"Thorne, Mrs. Gertrude Maybelle",1,"1","female",35.8981481481481,"0","0",79.2,"PC 17585","Mrs","30-39",79.2,"Muy elevado",2
+"258",258,"Cherry, Miss. Gladys",1,"1","female",30,"0","0",86.5,"110152","Miss","20-29",28.83,"Elevado",2
+"259",259,"Ward, Miss. Anna",1,"1","female",35,"0","0",512.3292,"PC 17755","Miss","30-39",170.78,"Muy elevado",2
+"260",260,"Parrish, Mrs. (Lutie Davis)",1,"2","female",50,"0","1",26,"230433","Mrs","40-49",13,"Medio",3
+"261",261,"Smith, Mr. Thomas",0,"3","male",32.3680904522613,"0","0",7.75,"384461","Mr","30-39",7.75,"Medio",2
+"262",262,"Asplund, Master. Edvin Rojj Felix",1,"3","male",3,"4","2",31.3875,"347077","Master","0-9",7.85,"Medio",8
+"263",263,"Taussig, Mr. Emil",0,"1","male",52,"1","1",79.65,"110413","Mr","50-59",26.55,"Elevado",4
+"264",264,"Harrison, Mr. William",0,"1","male",40,"0","0",0,"112059","Mr","30-39",0,NA,2
+"265",265,"Henry, Miss. Delia",0,"3","female",21.7739726027397,"0","0",7.75,"382649","Miss","20-29",7.75,"Medio",2
+"266",266,"Reeves, Mr. David",0,"2","male",36,"0","0",10.5,"C.A. 17248","Mr","30-39",10.5,"Medio",2
+"267",267,"Panula, Mr. Ernesti Arvid",0,"3","male",16,"4","1",39.6875,"3101295","Mr","10-19",6.61,"Bajo",7
+"268",268,"Persson, Mr. Ernst Ulrik",1,"3","male",25,"1","0",7.775,"347083","Mr","20-29",7.78,"Medio",3
+"269",269,"Graham, Mrs. William Thompson (Edith Junkins)",1,"1","female",58,"0","1",153.4625,"PC 17582","Mrs","50-59",51.15,"Muy elevado",3
+"270",270,"Bissette, Miss. Amelia",1,"1","female",35,"0","0",135.6333,"PC 17760","Miss","30-39",45.21,"Elevado",2
+"271",271,"Cairns, Mr. Alexander",0,"1","male",32.3680904522613,"0","0",31,"113798","Mr","30-39",15.5,"Medio",2
+"272",272,"Tornquist, Mr. William Henry",1,"3","male",25,"0","0",0,"LINE","Mr","20-29",0,NA,2
+"273",273,"Mellinger, Mrs. (Elizabeth Anne Maidment)",1,"2","female",41,"0","1",19.5,"250644","Mrs","40-49",9.75,"Medio",3
+"274",274,"Natsch, Mr. Charles H",0,"1","male",37,"0","1",29.7,"PC 17596","Mr","30-39",29.7,"Elevado",3
+"275",275,"Healy, Miss. Hanora ""Nora""",1,"3","female",21.7739726027397,"0","0",7.75,"370375","Miss","20-29",7.75,"Medio",2
+"276",276,"Andrews, Miss. Kornelia Theodosia",1,"1","female",63,"1","0",77.9583,"13502","Miss","60-69",25.99,"Elevado",3
+"277",277,"Lindblom, Miss. Augusta Charlotta",0,"3","female",45,"0","0",7.75,"347073","Miss","40-49",7.75,"Medio",2
+"278",278,"Parkes, Mr. Francis ""Frank""",0,"2","male",32.3680904522613,"0","0",0,"239853","Mr","30-39",0,NA,2
+"279",279,"Rice, Master. Eric",0,"3","male",7,"4","1",29.125,"382652","Master","0-9",5.82,"Bajo",7
+"280",280,"Abbott, Mrs. Stanton (Rosa Hunt)",1,"3","female",35,"1","1",20.25,"C.A. 2673","Mrs","30-39",10.12,"Medio",4
+"281",281,"Duane, Mr. Frank",0,"3","male",65,"0","0",7.75,"336439","Mr","60-69",7.75,"Medio",2
+"282",282,"Olsson, Mr. Nils Johan Goransson",0,"3","male",28,"0","0",7.8542,"347464","Mr","20-29",7.85,"Medio",2
+"283",283,"de Pelsmaeker, Mr. Alfons",0,"3","male",16,"0","0",9.5,"345778","Mr","10-19",9.5,"Medio",2
+"284",284,"Dorking, Mr. Edward Arthur",1,"3","male",19,"0","0",8.05,"A/5. 10482","Mr","10-19",8.05,"Medio",2
+"285",285,"Smith, Mr. Richard William",0,"1","male",32.3680904522613,"0","0",26,"113056","Mr","30-39",26,"Elevado",2
+"286",286,"Stankovic, Mr. Ivan",0,"3","male",33,"0","0",8.6625,"349239","Mr","30-39",8.66,"Medio",2
+"287",287,"de Mulder, Mr. Theodore",1,"3","male",30,"0","0",9.5,"345774","Mr","20-29",9.5,"Medio",2
+"288",288,"Naidenoff, Mr. Penko",0,"3","male",22,"0","0",7.8958,"349206","Mr","20-29",7.9,"Medio",2
+"289",289,"Hosono, Mr. Masabumi",1,"2","male",42,"0","0",13,"237798","Mr","40-49",13,"Medio",2
+"290",290,"Connolly, Miss. Kate",1,"3","female",22,"0","0",7.75,"370373","Miss","20-29",7.75,"Medio",2
+"291",291,"Barber, Miss. Ellen ""Nellie""",1,"1","female",26,"0","0",78.85,"19877","Miss","20-29",39.42,"Elevado",2
+"292",292,"Bishop, Mrs. Dickinson H (Helen Walton)",1,"1","female",19,"1","0",91.0792,"11967","Mrs","10-19",45.54,"Elevado",3
+"293",293,"Levy, Mr. Rene Jacques",0,"2","male",36,"0","0",12.875,"SC/Paris 2163","Mr","30-39",12.88,"Medio",2
+"294",294,"Haas, Miss. Aloisia",0,"3","female",24,"0","0",8.85,"349236","Miss","20-29",8.85,"Medio",2
+"295",295,"Mineff, Mr. Ivan",0,"3","male",24,"0","0",7.8958,"349233","Mr","20-29",7.9,"Medio",2
+"296",296,"Lewy, Mr. Ervin G",0,"1","male",32.3680904522613,"0","0",27.7208,"PC 17612","Mr","30-39",27.72,"Elevado",2
+"297",297,"Hanna, Mr. Mansour",0,"3","male",23.5,"0","0",7.2292,"2693","Mr","20-29",7.23,"Bajo",2
+"298",298,"Allison, Miss. Helen Loraine",0,"1","female",2,"1","2",151.55,"113781","Miss","0-9",37.89,"Elevado",5
+"299",299,"Saalfeld, Mr. Adolphe",1,"1","male",32.3680904522613,"0","0",30.5,"19988","Mr","30-39",30.5,"Elevado",2
+"300",300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",1,"1","female",50,"0","1",247.5208,"PC 17558","Mrs","40-49",123.76,"Muy elevado",3
+"301",301,"Kelly, Miss. Anna Katherine ""Annie Kate""",1,"3","female",21.7739726027397,"0","0",7.75,"9234","Miss","20-29",7.75,"Medio",2
+"302",302,"McCoy, Mr. Bernard",1,"3","male",32.3680904522613,"2","0",23.25,"367226","Mr","30-39",11.62,"Medio",4
+"303",303,"Johnson, Mr. William Cahoone Jr",0,"3","male",19,"0","0",0,"LINE","Mr","10-19",0,NA,2
+"304",304,"Keane, Miss. Nora A",1,"2","female",21.7739726027397,"0","0",12.35,"226593","Miss","20-29",12.35,"Medio",2
+"305",305,"Williams, Mr. Howard Hugh ""Harry""",0,"3","male",32.3680904522613,"0","0",8.05,"A/5 2466","Mr","30-39",8.05,"Medio",2
+"306",306,"Allison, Master. Hudson Trevor",1,"1","male",0.92,"1","2",151.55,"113781","Master","0-9",37.89,"Elevado",5
+"307",307,"Fleming, Miss. Margaret",1,"1","female",21.7739726027397,"0","0",110.8833,"17421","Miss","20-29",27.72,"Elevado",2
+"308",308,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",1,"1","female",17,"1","0",108.9,"PC 17758","Mrs","10-19",54.45,"Muy elevado",3
+"309",309,"Abelson, Mr. Samuel",0,"2","male",30,"1","0",24,"P/PP 3381","Mr","20-29",12,"Medio",3
+"310",310,"Francatelli, Miss. Laura Mabel",1,"1","female",30,"0","0",56.9292,"PC 17485","Miss","20-29",28.46,"Elevado",2
+"311",311,"Hays, Miss. Margaret Bechstein",1,"1","female",24,"0","0",83.1583,"11767","Miss","20-29",41.58,"Elevado",2
+"312",312,"Ryerson, Miss. Emily Borie",1,"1","female",18,"2","2",262.375,"PC 17608","Miss","10-19",131.19,"Muy elevado",6
+"313",313,"Lahtinen, Mrs. William (Anna Sylfven)",0,"2","female",26,"1","1",26,"250651","Mrs","20-29",26,"Elevado",4
+"314",314,"Hendekovic, Mr. Ignjac",0,"3","male",28,"0","0",7.8958,"349243","Mr","20-29",7.9,"Medio",2
+"315",315,"Hart, Mr. Benjamin",0,"2","male",43,"1","1",26.25,"F.C.C. 13529","Mr","40-49",8.75,"Medio",4
+"316",316,"Nilsson, Miss. Helmina Josefina",1,"3","female",26,"0","0",7.8542,"347470","Miss","20-29",7.85,"Medio",2
+"317",317,"Kantor, Mrs. Sinai (Miriam Sternin)",1,"2","female",24,"1","0",26,"244367","Mrs","20-29",13,"Medio",3
+"318",318,"Moraweck, Dr. Ernest",0,"2","male",54,"0","0",14,"29011","Other","50-59",14,"Medio",2
+"319",319,"Wick, Miss. Mary Natalie",1,"1","female",31,"0","2",164.8667,"36928","Miss","30-39",82.43,"Muy elevado",4
+"320",320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",1,"1","female",40,"1","1",134.5,"16966","Mrs","30-39",67.25,"Muy elevado",4
+"321",321,"Dennis, Mr. Samuel",0,"3","male",22,"0","0",7.25,"A/5 21172","Mr","20-29",7.25,"Bajo",2
+"322",322,"Danoff, Mr. Yoto",0,"3","male",27,"0","0",7.8958,"349219","Mr","20-29",7.9,"Medio",2
+"323",323,"Slayter, Miss. Hilda Mary",1,"2","female",30,"0","0",12.35,"234818","Miss","20-29",12.35,"Medio",2
+"324",324,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",1,"2","female",22,"1","1",29,"248738","Mrs","20-29",14.5,"Medio",4
+"325",325,"Sage, Mr. George John Jr",0,"3","male",32.3680904522613,"8","2",69.55,"CA. 2343","Mr","30-39",9.94,"Medio",10
+"326",326,"Young, Miss. Marie Grice",1,"1","female",36,"0","0",135.6333,"PC 17760","Miss","30-39",45.21,"Elevado",2
+"327",327,"Nysveen, Mr. Johan Hansen",0,"3","male",61,"0","0",6.2375,"345364","Mr","60-69",6.24,"Bajo",2
+"328",328,"Ball, Mrs. (Ada E Hall)",1,"2","female",36,"0","0",13,"28551","Mrs","30-39",13,"Medio",2
+"329",329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",1,"3","female",31,"1","1",20.525,"363291","Mrs","30-39",6.84,"Bajo",4
+"330",330,"Hippach, Miss. Jean Gertrude",1,"1","female",16,"0","1",57.9792,"111361","Miss","10-19",28.99,"Elevado",3
+"331",331,"McCoy, Miss. Agnes",1,"3","female",21.7739726027397,"2","0",23.25,"367226","Miss","20-29",11.62,"Medio",4
+"332",332,"Partner, Mr. Austen",0,"1","male",45.5,"0","0",28.5,"113043","Mr","40-49",28.5,"Elevado",2
+"333",333,"Graham, Mr. George Edward",0,"1","male",38,"0","1",153.4625,"PC 17582","Mr","30-39",51.15,"Muy elevado",3
+"334",334,"Vander Planke, Mr. Leo Edmondus",0,"3","male",16,"2","0",18,"345764","Mr","10-19",9,"Medio",4
+"335",335,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",1,"1","female",35.8981481481481,"1","0",133.65,"PC 17611","Mrs","30-39",66.83,"Muy elevado",3
+"336",336,"Denkoff, Mr. Mitto",0,"3","male",32.3680904522613,"0","0",7.8958,"349225","Mr","30-39",7.9,"Medio",2
+"337",337,"Pears, Mr. Thomas Clinton",0,"1","male",29,"1","0",66.6,"113776","Mr","20-29",33.3,"Elevado",3
+"338",338,"Burns, Miss. Elizabeth Margaret",1,"1","female",41,"0","0",134.5,"16966","Miss","40-49",67.25,"Muy elevado",2
+"339",339,"Dahl, Mr. Karl Edwart",1,"3","male",45,"0","0",8.05,"7598","Mr","40-49",8.05,"Medio",2
+"340",340,"Blackwell, Mr. Stephen Weart",0,"1","male",45,"0","0",35.5,"113784","Mr","40-49",35.5,"Elevado",2
+"341",341,"Navratil, Master. Edmond Roger",1,"2","male",2,"1","1",26,"230080","Master","0-9",8.67,"Medio",4
+"342",342,"Fortune, Miss. Alice Elizabeth",1,"1","female",24,"3","2",263,"19950","Miss","20-29",65.75,"Muy elevado",7
+"343",343,"Collander, Mr. Erik Gustaf",0,"2","male",28,"0","0",13,"248740","Mr","20-29",13,"Medio",2
+"344",344,"Sedgwick, Mr. Charles Frederick Waddington",0,"2","male",25,"0","0",13,"244361","Mr","20-29",13,"Medio",2
+"345",345,"Fox, Mr. Stanley Hubert",0,"2","male",36,"0","0",13,"229236","Mr","30-39",13,"Medio",2
+"346",346,"Brown, Miss. Amelia ""Mildred""",1,"2","female",24,"0","0",13,"248733","Miss","20-29",13,"Medio",2
+"347",347,"Smith, Miss. Marion Elsie",1,"2","female",40,"0","0",13,"31418","Miss","30-39",13,"Medio",2
+"348",348,"Davison, Mrs. Thomas Henry (Mary E Finck)",1,"3","female",35.8981481481481,"1","0",16.1,"386525","Mrs","30-39",16.1,"Medio",3
+"349",349,"Coutts, Master. William Loch ""William""",1,"3","male",3,"1","1",15.9,"C.A. 37671","Master","0-9",7.95,"Medio",4
+"350",350,"Dimic, Mr. Jovan",0,"3","male",42,"0","0",8.6625,"315088","Mr","40-49",8.66,"Medio",2
+"351",351,"Odahl, Mr. Nils Martin",0,"3","male",23,"0","0",9.225,"7267","Mr","20-29",9.22,"Medio",2
+"352",352,"Williams-Lambert, Mr. Fletcher Fellows",0,"1","male",32.3680904522613,"0","0",35,"113510","Mr","30-39",35,"Elevado",2
+"353",353,"Elias, Mr. Tannous",0,"3","male",15,"1","1",7.2292,"2695","Mr","10-19",7.23,"Bajo",4
+"354",354,"Arnold-Franchi, Mr. Josef",0,"3","male",25,"1","0",17.8,"349237","Mr","20-29",8.9,"Medio",3
+"355",355,"Yousif, Mr. Wazli",0,"3","male",32.3680904522613,"0","0",7.225,"2647","Mr","30-39",7.22,"Bajo",2
+"356",356,"Vanden Steen, Mr. Leo Peter",0,"3","male",28,"0","0",9.5,"345783","Mr","20-29",9.5,"Medio",2
+"357",357,"Bowerman, Miss. Elsie Edith",1,"1","female",22,"0","1",55,"113505","Miss","20-29",27.5,"Elevado",3
+"358",358,"Funk, Miss. Annie Clemmer",0,"2","female",38,"0","0",13,"237671","Miss","30-39",13,"Medio",2
+"359",359,"McGovern, Miss. Mary",1,"3","female",21.7739726027397,"0","0",7.8792,"330931","Miss","20-29",7.88,"Medio",2
+"360",360,"Mockler, Miss. Helen Mary ""Ellie""",1,"3","female",21.7739726027397,"0","0",7.8792,"330980","Miss","20-29",7.88,"Medio",2
+"361",361,"Skoog, Mr. Wilhelm",0,"3","male",40,"1","4",27.9,"347088","Mr","30-39",4.65,"Bajo",7
+"362",362,"del Carlo, Mr. Sebastiano",0,"2","male",29,"1","0",27.7208,"SC/PARIS 2167","Mr","20-29",27.72,"Elevado",3
+"363",363,"Barbara, Mrs. (Catherine David)",0,"3","female",45,"0","1",14.4542,"2691","Mrs","40-49",7.23,"Bajo",3
+"364",364,"Asim, Mr. Adola",0,"3","male",35,"0","0",7.05,"SOTON/O.Q. 3101310","Mr","30-39",7.05,"Bajo",2
+"365",365,"O'Brien, Mr. Thomas",0,"3","male",32.3680904522613,"1","0",15.5,"370365","Mr","30-39",7.75,"Medio",3
+"366",366,"Adahl, Mr. Mauritz Nils Martin",0,"3","male",30,"0","0",7.25,"C 7076","Mr","20-29",7.25,"Bajo",2
+"367",367,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",1,"1","female",60,"1","0",75.25,"110813","Mrs","50-59",75.25,"Muy elevado",3
+"368",368,"Moussa, Mrs. (Mantoura Boulos)",1,"3","female",35.8981481481481,"0","0",7.2292,"2626","Mrs","30-39",7.23,"Bajo",2
+"369",369,"Jermyn, Miss. Annie",1,"3","female",21.7739726027397,"0","0",7.75,"14313","Miss","20-29",7.75,"Medio",2
+"370",370,"Aubart, Mme. Leontine Pauline",1,"1","female",24,"0","0",69.3,"PC 17477","Other","20-29",34.65,"Elevado",2
+"371",371,"Harder, Mr. George Achilles",1,"1","male",25,"1","0",55.4417,"11765","Mr","20-29",55.44,"Muy elevado",3
+"372",372,"Wiklund, Mr. Jakob Alfred",0,"3","male",18,"1","0",6.4958,"3101267","Mr","10-19",6.5,"Bajo",3
+"373",373,"Beavan, Mr. William Thomas",0,"3","male",19,"0","0",8.05,"323951","Mr","10-19",8.05,"Medio",2
+"374",374,"Ringhini, Mr. Sante",0,"1","male",22,"0","0",135.6333,"PC 17760","Mr","20-29",45.21,"Elevado",2
+"375",375,"Palsson, Miss. Stina Viola",0,"3","female",3,"3","1",21.075,"349909","Miss","0-9",5.27,"Bajo",6
+"376",376,"Meyer, Mrs. Edgar Joseph (Leila Saks)",1,"1","female",35.8981481481481,"1","0",82.1708,"PC 17604","Mrs","30-39",41.09,"Elevado",3
+"377",377,"Landergren, Miss. Aurora Adelia",1,"3","female",22,"0","0",7.25,"C 7077","Miss","20-29",7.25,"Bajo",2
+"378",378,"Widener, Mr. Harry Elkins",0,"1","male",27,"0","2",211.5,"113503","Mr","20-29",211.5,"Muy elevado",4
+"379",379,"Betros, Mr. Tannous",0,"3","male",20,"0","0",4.0125,"2648","Mr","10-19",4.01,"Bajo",2
+"380",380,"Gustafsson, Mr. Karl Gideon",0,"3","male",19,"0","0",7.775,"347069","Mr","10-19",7.78,"Medio",2
+"381",381,"Bidois, Miss. Rosalie",1,"1","female",42,"0","0",227.525,"PC 17757","Miss","40-49",56.88,"Muy elevado",2
+"382",382,"Nakid, Miss. Maria (""Mary"")",1,"3","female",1,"0","2",15.7417,"2653","Miss","0-9",7.87,"Medio",4
+"383",383,"Tikkanen, Mr. Juho",0,"3","male",32,"0","0",7.925,"STON/O 2. 3101293","Mr","30-39",7.92,"Medio",2
+"384",384,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",1,"1","female",35,"1","0",52,"113789","Mrs","30-39",26,"Elevado",3
+"385",385,"Plotcharsky, Mr. Vasil",0,"3","male",32.3680904522613,"0","0",7.8958,"349227","Mr","30-39",7.9,"Medio",2
+"386",386,"Davies, Mr. Charles Henry",0,"2","male",18,"0","0",73.5,"S.O.C. 14879","Mr","10-19",14.7,"Medio",2
+"387",387,"Goodwin, Master. Sidney Leonard",0,"3","male",1,"5","2",46.9,"CA 2144","Master","0-9",7.82,"Medio",9
+"388",388,"Buss, Miss. Kate",1,"2","female",36,"0","0",13,"27849","Miss","30-39",13,"Medio",2
+"389",389,"Sadlier, Mr. Matthew",0,"3","male",32.3680904522613,"0","0",7.7292,"367655","Mr","30-39",7.73,"Medio",2
+"390",390,"Lehmann, Miss. Bertha",1,"2","female",17,"0","0",12,"SC 1748","Miss","10-19",12,"Medio",2
+"391",391,"Carter, Mr. William Ernest",1,"1","male",36,"1","2",120,"113760","Mr","30-39",30,"Elevado",5
+"392",392,"Jansson, Mr. Carl Olof",1,"3","male",21,"0","0",7.7958,"350034","Mr","20-29",7.8,"Medio",2
+"393",393,"Gustafsson, Mr. Johan Birger",0,"3","male",28,"2","0",7.925,"3101277","Mr","20-29",7.92,"Medio",4
+"394",394,"Newell, Miss. Marjorie",1,"1","female",23,"1","0",113.275,"35273","Miss","20-29",37.76,"Elevado",3
+"395",395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",1,"3","female",24,"0","2",16.7,"PP 9549","Mrs","20-29",8.35,"Medio",4
+"396",396,"Johansson, Mr. Erik",0,"3","male",22,"0","0",7.7958,"350052","Mr","20-29",7.8,"Medio",2
+"397",397,"Olsson, Miss. Elina",0,"3","female",31,"0","0",7.8542,"350407","Miss","30-39",7.85,"Medio",2
+"398",398,"McKane, Mr. Peter David",0,"2","male",46,"0","0",26,"28403","Mr","40-49",13,"Medio",2
+"399",399,"Pain, Dr. Alfred",0,"2","male",23,"0","0",10.5,"244278","Other","20-29",10.5,"Medio",2
+"400",400,"Trout, Mrs. William H (Jessie L)",1,"2","female",28,"0","0",12.65,"240929","Mrs","20-29",12.65,"Medio",2
+"401",401,"Niskanen, Mr. Juha",1,"3","male",39,"0","0",7.925,"STON/O 2. 3101289","Mr","30-39",7.92,"Medio",2
+"402",402,"Adams, Mr. John",0,"3","male",26,"0","0",8.05,"341826","Mr","20-29",8.05,"Medio",2
+"403",403,"Jussila, Miss. Mari Aina",0,"3","female",21,"1","0",9.825,"4137","Miss","20-29",9.82,"Medio",3
+"404",404,"Hakkarainen, Mr. Pekka Pietari",0,"3","male",28,"1","0",15.85,"STON/O2. 3101279","Mr","20-29",7.92,"Medio",3
+"405",405,"Oreskovic, Miss. Marija",0,"3","female",20,"0","0",8.6625,"315096","Miss","10-19",8.66,"Medio",2
+"406",406,"Gale, Mr. Shadrach",0,"2","male",34,"1","0",21,"28664","Mr","30-39",21,"Medio",3
+"407",407,"Widegren, Mr. Carl/Charles Peter",0,"3","male",51,"0","0",7.75,"347064","Mr","50-59",7.75,"Medio",2
+"408",408,"Richards, Master. William Rowe",1,"2","male",3,"1","1",18.75,"29106","Master","0-9",6.25,"Bajo",4
+"409",409,"Birkeland, Mr. Hans Martin Monsen",0,"3","male",21,"0","0",7.775,"312992","Mr","20-29",7.78,"Medio",2
+"410",410,"Lefebre, Miss. Ida",0,"3","female",21.7739726027397,"3","1",25.4667,"4133","Miss","20-29",6.37,"Bajo",6
+"411",411,"Sdycoff, Mr. Todor",0,"3","male",32.3680904522613,"0","0",7.8958,"349222","Mr","30-39",7.9,"Medio",2
+"412",412,"Hart, Mr. Henry",0,"3","male",32.3680904522613,"0","0",6.8583,"394140","Mr","30-39",6.86,"Bajo",2
+"413",413,"Minahan, Miss. Daisy E",1,"1","female",33,"1","0",90,"19928","Miss","30-39",45,"Elevado",3
+"414",414,"Cunningham, Mr. Alfred Fleming",0,"2","male",32.3680904522613,"0","0",0,"239853","Mr","30-39",0,NA,2
+"415",415,"Sundman, Mr. Johan Julian",1,"3","male",44,"0","0",7.925,"STON/O 2. 3101269","Mr","40-49",7.92,"Medio",2
+"416",416,"Meek, Mrs. Thomas (Annie Louise Rowley)",0,"3","female",35.8981481481481,"0","0",8.05,"343095","Mrs","30-39",8.05,"Medio",2
+"417",417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",1,"2","female",34,"1","1",32.5,"28220","Mrs","30-39",32.5,"Elevado",4
+"418",418,"Silven, Miss. Lyyli Karoliina",1,"2","female",18,"0","2",13,"250652","Miss","10-19",13,"Medio",4
+"419",419,"Matthews, Mr. William John",0,"2","male",30,"0","0",13,"28228","Mr","20-29",13,"Medio",2
+"420",420,"Van Impe, Miss. Catharina",0,"3","female",10,"0","2",24.15,"345773","Miss","0-9",8.05,"Medio",4
+"421",421,"Gheorgheff, Mr. Stanio",0,"3","male",32.3680904522613,"0","0",7.8958,"349254","Mr","30-39",7.9,"Medio",2
+"422",422,"Charters, Mr. David",0,"3","male",21,"0","0",7.7333,"A/5. 13032","Mr","20-29",7.73,"Medio",2
+"423",423,"Zimmerman, Mr. Leo",0,"3","male",29,"0","0",7.875,"315082","Mr","20-29",7.88,"Medio",2
+"424",424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",0,"3","female",28,"1","1",14.4,"347080","Mrs","20-29",7.2,"Bajo",4
+"425",425,"Rosblom, Mr. Viktor Richard",0,"3","male",18,"1","1",20.2125,"370129","Mr","10-19",10.11,"Medio",4
+"426",426,"Wiseman, Mr. Phillippe",0,"3","male",32.3680904522613,"0","0",7.25,"A/4. 34244","Mr","30-39",7.25,"Bajo",2
+"427",427,"Clarke, Mrs. Charles V (Ada Maria Winfield)",1,"2","female",28,"1","0",26,"2003","Mrs","20-29",26,"Elevado",3
+"428",428,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",1,"2","female",19,"0","0",26,"250655","Miss","10-19",13,"Medio",2
+"429",429,"Flynn, Mr. James",0,"3","male",32.3680904522613,"0","0",7.75,"364851","Mr","30-39",7.75,"Medio",2
+"430",430,"Pickard, Mr. Berk (Berk Trembisky)",1,"3","male",32,"0","0",8.05,"SOTON/O.Q. 392078","Mr","30-39",8.05,"Medio",2
+"431",431,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",1,"1","male",28,"0","0",26.55,"110564","Mr","20-29",26.55,"Elevado",2
+"432",432,"Thorneycroft, Mrs. Percival (Florence Kate White)",1,"3","female",35.8981481481481,"1","0",16.1,"376564","Mrs","30-39",8.05,"Medio",3
+"433",433,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",1,"2","female",42,"1","0",26,"SC/AH 3085","Mrs","40-49",26,"Elevado",3
+"434",434,"Kallio, Mr. Nikolai Erland",0,"3","male",17,"0","0",7.125,"STON/O 2. 3101274","Mr","10-19",7.12,"Bajo",2
+"435",435,"Silvey, Mr. William Baird",0,"1","male",50,"1","0",55.9,"13507","Mr","40-49",27.95,"Elevado",3
+"436",436,"Carter, Miss. Lucile Polk",1,"1","female",14,"1","2",120,"113760","Miss","10-19",30,"Elevado",5
+"437",437,"Ford, Miss. Doolina Margaret ""Daisy""",0,"3","female",21,"2","2",34.375,"W./C. 6608","Miss","20-29",8.59,"Medio",6
+"438",438,"Richards, Mrs. Sidney (Emily Hocking)",1,"2","female",24,"2","3",18.75,"29106","Mrs","20-29",6.25,"Bajo",7
+"439",439,"Fortune, Mr. Mark",0,"1","male",64,"1","4",263,"19950","Mr","60-69",65.75,"Muy elevado",7
+"440",440,"Kvillner, Mr. Johan Henrik Johannesson",0,"2","male",31,"0","0",10.5,"C.A. 18723","Mr","30-39",10.5,"Medio",2
+"441",441,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",1,"2","female",45,"1","1",26.25,"F.C.C. 13529","Mrs","40-49",8.75,"Medio",4
+"442",442,"Hampe, Mr. Leon",0,"3","male",20,"0","0",9.5,"345769","Mr","10-19",9.5,"Medio",2
+"443",443,"Petterson, Mr. Johan Emil",0,"3","male",25,"1","0",7.775,"347076","Mr","20-29",7.78,"Medio",3
+"444",444,"Reynaldo, Ms. Encarnacion",1,"2","female",28,"0","0",13,"230434","Other","20-29",13,"Medio",2
+"445",445,"Johannesen-Bratthammer, Mr. Bernt",1,"3","male",32.3680904522613,"0","0",8.1125,"65306","Mr","30-39",8.11,"Medio",2
+"446",446,"Dodge, Master. Washington",1,"1","male",4,"0","2",81.8583,"33638","Master","0-9",81.86,"Muy elevado",4
+"447",447,"Mellinger, Miss. Madeleine Violet",1,"2","female",13,"0","1",19.5,"250644","Miss","10-19",9.75,"Medio",3
+"448",448,"Seward, Mr. Frederic Kimber",1,"1","male",34,"0","0",26.55,"113794","Mr","30-39",26.55,"Elevado",2
+"449",449,"Baclini, Miss. Marie Catherine",1,"3","female",5,"2","1",19.2583,"2666","Miss","0-9",4.81,"Bajo",5
+"450",450,"Peuchen, Major. Arthur Godfrey",1,"1","male",52,"0","0",30.5,"113786","Other","50-59",30.5,"Elevado",2
+"451",451,"West, Mr. Edwy Arthur",0,"2","male",36,"1","2",27.75,"C.A. 34651","Mr","30-39",9.25,"Medio",5
+"452",452,"Hagland, Mr. Ingvald Olai Olsen",0,"3","male",32.3680904522613,"1","0",19.9667,"65303","Mr","30-39",19.97,"Medio",3
+"453",453,"Foreman, Mr. Benjamin Laventall",0,"1","male",30,"0","0",27.75,"113051","Mr","20-29",27.75,"Elevado",2
+"454",454,"Goldenberg, Mr. Samuel L",1,"1","male",49,"1","0",89.1042,"17453","Mr","40-49",44.55,"Elevado",3
+"455",455,"Peduzzi, Mr. Joseph",0,"3","male",32.3680904522613,"0","0",8.05,"A/5 2817","Mr","30-39",8.05,"Medio",2
+"456",456,"Jalsevac, Mr. Ivan",1,"3","male",29,"0","0",7.8958,"349240","Mr","20-29",7.9,"Medio",2
+"457",457,"Millet, Mr. Francis Davis",0,"1","male",65,"0","0",26.55,"13509","Mr","60-69",26.55,"Elevado",2
+"458",458,"Kenyon, Mrs. Frederick R (Marion)",1,"1","female",35.8981481481481,"1","0",51.8625,"17464","Mrs","30-39",51.86,"Muy elevado",3
+"459",459,"Toomey, Miss. Ellen",1,"2","female",50,"0","0",10.5,"F.C.C. 13531","Miss","40-49",10.5,"Medio",2
+"460",460,"O'Connor, Mr. Maurice",0,"3","male",32.3680904522613,"0","0",7.75,"371060","Mr","30-39",7.75,"Medio",2
+"461",461,"Anderson, Mr. Harry",1,"1","male",48,"0","0",26.55,"19952","Mr","40-49",26.55,"Elevado",2
+"462",462,"Morley, Mr. William",0,"3","male",34,"0","0",8.05,"364506","Mr","30-39",8.05,"Medio",2
+"463",463,"Gee, Mr. Arthur H",0,"1","male",47,"0","0",38.5,"111320","Mr","40-49",38.5,"Elevado",2
+"464",464,"Milling, Mr. Jacob Christian",0,"2","male",48,"0","0",13,"234360","Mr","40-49",13,"Medio",2
+"465",465,"Maisner, Mr. Simon",0,"3","male",32.3680904522613,"0","0",8.05,"A/S 2816","Mr","30-39",8.05,"Medio",2
+"466",466,"Goncalves, Mr. Manuel Estanslas",0,"3","male",38,"0","0",7.05,"SOTON/O.Q. 3101306","Mr","30-39",7.05,"Bajo",2
+"467",467,"Campbell, Mr. William",0,"2","male",32.3680904522613,"0","0",0,"239853","Mr","30-39",0,NA,2
+"468",468,"Smart, Mr. John Montgomery",0,"1","male",56,"0","0",26.55,"113792","Mr","50-59",26.55,"Elevado",2
+"469",469,"Scanlan, Mr. James",0,"3","male",32.3680904522613,"0","0",7.725,"36209","Mr","30-39",7.72,"Medio",2
+"470",470,"Baclini, Miss. Helene Barbara",1,"3","female",0.75,"2","1",19.2583,"2666","Miss","0-9",4.81,"Bajo",5
+"471",471,"Keefe, Mr. Arthur",0,"3","male",32.3680904522613,"0","0",7.25,"323592","Mr","30-39",7.25,"Bajo",2
+"472",472,"Cacic, Mr. Luka",0,"3","male",38,"0","0",8.6625,"315089","Mr","30-39",8.66,"Medio",2
+"473",473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",1,"2","female",33,"1","2",27.75,"C.A. 34651","Mrs","30-39",9.25,"Medio",5
+"474",474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",1,"2","female",23,"0","0",13.7917,"SC/AH Basle 541","Mrs","20-29",13.79,"Medio",2
+"475",475,"Strandberg, Miss. Ida Sofia",0,"3","female",22,"0","0",9.8375,"7553","Miss","20-29",9.84,"Medio",2
+"476",476,"Clifford, Mr. George Quincy",0,"1","male",32.3680904522613,"0","0",52,"110465","Mr","30-39",26,"Elevado",2
+"477",477,"Renouf, Mr. Peter Henry",0,"2","male",34,"1","0",21,"31027","Mr","30-39",10.5,"Medio",3
+"478",478,"Braund, Mr. Lewis Richard",0,"3","male",29,"1","0",7.0458,"3460","Mr","20-29",7.05,"Bajo",3
+"479",479,"Karlsson, Mr. Nils August",0,"3","male",22,"0","0",7.5208,"350060","Mr","20-29",7.52,"Bajo",2
+"480",480,"Hirvonen, Miss. Hildur E",1,"3","female",2,"0","1",12.2875,"3101298","Miss","0-9",12.29,"Medio",3
+"481",481,"Goodwin, Master. Harold Victor",0,"3","male",9,"5","2",46.9,"CA 2144","Master","0-9",7.82,"Medio",9
+"482",482,"Frost, Mr. Anthony Wood ""Archie""",0,"2","male",32.3680904522613,"0","0",0,"239854","Mr","30-39",0,NA,2
+"483",483,"Rouse, Mr. Richard Henry",0,"3","male",50,"0","0",8.05,"A/5 3594","Mr","40-49",8.05,"Medio",2
+"484",484,"Turkula, Mrs. (Hedwig)",1,"3","female",63,"0","0",9.5875,"4134","Mrs","60-69",9.59,"Medio",2
+"485",485,"Bishop, Mr. Dickinson H",1,"1","male",25,"1","0",91.0792,"11967","Mr","20-29",45.54,"Elevado",3
+"486",486,"Lefebre, Miss. Jeannie",0,"3","female",21.7739726027397,"3","1",25.4667,"4133","Miss","20-29",6.37,"Bajo",6
+"487",487,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",1,"1","female",35,"1","0",90,"19943","Mrs","30-39",45,"Elevado",3
+"488",488,"Kent, Mr. Edward Austin",0,"1","male",58,"0","0",29.7,"11771","Mr","50-59",29.7,"Elevado",2
+"489",489,"Somerton, Mr. Francis William",0,"3","male",30,"0","0",8.05,"A.5. 18509","Mr","20-29",8.05,"Medio",2
+"490",490,"Coutts, Master. Eden Leslie ""Neville""",1,"3","male",9,"1","1",15.9,"C.A. 37671","Master","0-9",7.95,"Medio",4
+"491",491,"Hagland, Mr. Konrad Mathias Reiersen",0,"3","male",32.3680904522613,"1","0",19.9667,"65304","Mr","30-39",19.97,"Medio",3
+"492",492,"Windelov, Mr. Einar",0,"3","male",21,"0","0",7.25,"SOTON/OQ 3101317","Mr","20-29",7.25,"Bajo",2
+"493",493,"Molson, Mr. Harry Markland",0,"1","male",55,"0","0",30.5,"113787","Mr","50-59",30.5,"Elevado",2
+"494",494,"Artagaveytia, Mr. Ramon",0,"1","male",71,"0","0",49.5042,"PC 17609","Mr","70-80",49.5,"Muy elevado",2
+"495",495,"Stanley, Mr. Edward Roland",0,"3","male",21,"0","0",8.05,"A/4 45380","Mr","20-29",8.05,"Medio",2
+"496",496,"Yousseff, Mr. Gerious",0,"3","male",32.3680904522613,"0","0",14.4583,"2627","Mr","30-39",7.23,"Bajo",2
+"497",497,"Eustis, Miss. Elizabeth Mussey",1,"1","female",54,"1","0",78.2667,"36947","Miss","50-59",39.13,"Elevado",3
+"498",498,"Shellard, Mr. Frederick William",0,"3","male",32.3680904522613,"0","0",15.1,"C.A. 6212","Mr","30-39",15.1,"Medio",2
+"499",499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",0,"1","female",25,"1","2",151.55,"113781","Mrs","20-29",37.89,"Elevado",5
+"500",500,"Svensson, Mr. Olof",0,"3","male",24,"0","0",7.7958,"350035","Mr","20-29",7.8,"Medio",2
+"501",501,"Calic, Mr. Petar",0,"3","male",17,"0","0",8.6625,"315086","Mr","10-19",8.66,"Medio",2
+"502",502,"Canavan, Miss. Mary",0,"3","female",21,"0","0",7.75,"364846","Miss","20-29",7.75,"Medio",2
+"503",503,"O'Sullivan, Miss. Bridget Mary",0,"3","female",21.7739726027397,"0","0",7.6292,"330909","Miss","20-29",7.63,"Bajo",2
+"504",504,"Laitinen, Miss. Kristina Sofia",0,"3","female",37,"0","0",9.5875,"4135","Miss","30-39",9.59,"Medio",2
+"505",505,"Maioni, Miss. Roberta",1,"1","female",16,"0","0",86.5,"110152","Miss","10-19",28.83,"Elevado",2
+"506",506,"Penasco y Castellana, Mr. Victor de Satode",0,"1","male",18,"1","0",108.9,"PC 17758","Mr","10-19",54.45,"Muy elevado",3
+"507",507,"Quick, Mrs. Frederick Charles (Jane Richards)",1,"2","female",33,"0","2",26,"26360","Mrs","30-39",13,"Medio",4
+"508",508,"Bradley, Mr. George (""George Arthur Brayton"")",1,"1","male",32.3680904522613,"0","0",26.55,"111427","Mr","30-39",26.55,"Elevado",2
+"509",509,"Olsen, Mr. Henry Margido",0,"3","male",28,"0","0",22.525,"C 4001","Mr","20-29",22.52,"Medio",2
+"510",510,"Lang, Mr. Fang",1,"3","male",26,"0","0",56.4958,"1601","Mr","20-29",8.07,"Medio",2
+"511",511,"Daly, Mr. Eugene Patrick",1,"3","male",29,"0","0",7.75,"382651","Mr","20-29",7.75,"Medio",2
+"512",512,"Webber, Mr. James",0,"3","male",32.3680904522613,"0","0",8.05,"SOTON/OQ 3101316","Mr","30-39",8.05,"Medio",2
+"513",513,"McGough, Mr. James Robert",1,"1","male",36,"0","0",26.2875,"PC 17473","Mr","30-39",26.29,"Elevado",2
+"514",514,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",1,"1","female",54,"1","0",59.4,"PC 17603","Mrs","50-59",59.4,"Muy elevado",3
+"515",515,"Coleff, Mr. Satio",0,"3","male",24,"0","0",7.4958,"349209","Mr","20-29",7.5,"Bajo",2
+"516",516,"Walker, Mr. William Anderson",0,"1","male",47,"0","0",34.0208,"36967","Mr","40-49",34.02,"Elevado",2
+"517",517,"Lemore, Mrs. (Amelia Milley)",1,"2","female",34,"0","0",10.5,"C.A. 34260","Mrs","30-39",10.5,"Medio",2
+"518",518,"Ryan, Mr. Patrick",0,"3","male",32.3680904522613,"0","0",24.15,"371110","Mr","30-39",8.05,"Medio",2
+"519",519,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",1,"2","female",36,"1","0",26,"226875","Mrs","30-39",26,"Elevado",3
+"520",520,"Pavlovic, Mr. Stefo",0,"3","male",32,"0","0",7.8958,"349242","Mr","30-39",7.9,"Medio",2
+"521",521,"Perreault, Miss. Anne",1,"1","female",30,"0","0",93.5,"12749","Miss","20-29",46.75,"Elevado",2
+"522",522,"Vovk, Mr. Janko",0,"3","male",22,"0","0",7.8958,"349252","Mr","20-29",7.9,"Medio",2
+"523",523,"Lahoud, Mr. Sarkis",0,"3","male",32.3680904522613,"0","0",7.225,"2624","Mr","30-39",7.22,"Bajo",2
+"524",524,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",1,"1","female",44,"0","1",57.9792,"111361","Mrs","40-49",28.99,"Elevado",3
+"525",525,"Kassem, Mr. Fared",0,"3","male",32.3680904522613,"0","0",7.2292,"2700","Mr","30-39",7.23,"Bajo",2
+"526",526,"Farrell, Mr. James",0,"3","male",40.5,"0","0",7.75,"367232","Mr","40-49",7.75,"Medio",2
+"527",527,"Ridsdale, Miss. Lucy",1,"2","female",50,"0","0",10.5,"W./C. 14258","Miss","40-49",10.5,"Medio",2
+"528",528,"Farthing, Mr. John",0,"1","male",32.3680904522613,"0","0",221.7792,"PC 17483","Mr","30-39",221.78,"Muy elevado",2
+"529",529,"Salonen, Mr. Johan Werner",0,"3","male",39,"0","0",7.925,"3101296","Mr","30-39",7.92,"Medio",2
+"530",530,"Hocking, Mr. Richard George",0,"2","male",23,"2","1",11.5,"29104","Mr","20-29",11.5,"Medio",5
+"531",531,"Quick, Miss. Phyllis May",1,"2","female",2,"1","1",26,"26360","Miss","0-9",13,"Medio",4
+"532",532,"Toufik, Mr. Nakli",0,"3","male",32.3680904522613,"0","0",7.2292,"2641","Mr","30-39",7.23,"Bajo",2
+"533",533,"Elias, Mr. Joseph Jr",0,"3","male",17,"1","1",7.2292,"2690","Mr","10-19",7.23,"Bajo",4
+"534",534,"Peter, Mrs. Catherine (Catherine Rizk)",1,"3","female",35.8981481481481,"0","2",22.3583,"2668","Mrs","30-39",11.18,"Medio",4
+"535",535,"Cacic, Miss. Marija",0,"3","female",30,"0","0",8.6625,"315084","Miss","20-29",8.66,"Medio",2
+"536",536,"Hart, Miss. Eva Miriam",1,"2","female",7,"0","2",26.25,"F.C.C. 13529","Miss","0-9",8.75,"Medio",4
+"537",537,"Butt, Major. Archibald Willingham",0,"1","male",45,"0","0",26.55,"113050","Other","40-49",26.55,"Elevado",2
+"538",538,"LeRoy, Miss. Bertha",1,"1","female",30,"0","0",106.425,"PC 17761","Miss","20-29",53.21,"Muy elevado",2
+"539",539,"Risien, Mr. Samuel Beard",0,"3","male",32.3680904522613,"0","0",14.5,"364498","Mr","30-39",14.5,"Medio",2
+"540",540,"Frolicher, Miss. Hedwig Margaritha",1,"1","female",22,"0","2",49.5,"13568","Miss","20-29",49.5,"Muy elevado",4
+"541",541,"Crosby, Miss. Harriet R",1,"1","female",36,"0","2",71,"WE/P 5735","Miss","30-39",35.5,"Elevado",4
+"542",542,"Andersson, Miss. Ingeborg Constanzia",0,"3","female",9,"4","2",31.275,"347082","Miss","0-9",4.47,"Bajo",8
+"543",543,"Andersson, Miss. Sigrid Elisabeth",0,"3","female",11,"4","2",31.275,"347082","Miss","10-19",4.47,"Bajo",8
+"544",544,"Beane, Mr. Edward",1,"2","male",32,"1","0",26,"2908","Mr","30-39",13,"Medio",3
+"545",545,"Douglas, Mr. Walter Donald",0,"1","male",50,"1","0",106.425,"PC 17761","Mr","40-49",53.21,"Muy elevado",3
+"546",546,"Nicholson, Mr. Arthur Ernest",0,"1","male",64,"0","0",26,"693","Mr","60-69",26,"Elevado",2
+"547",547,"Beane, Mrs. Edward (Ethel Clarke)",1,"2","female",19,"1","0",26,"2908","Mrs","10-19",13,"Medio",3
+"548",548,"Padro y Manent, Mr. Julian",1,"2","male",32.3680904522613,"0","0",13.8625,"SC/PARIS 2146","Mr","30-39",13.86,"Medio",2
+"549",549,"Goldsmith, Mr. Frank John",0,"3","male",33,"1","1",20.525,"363291","Mr","30-39",6.84,"Bajo",4
+"550",550,"Davies, Master. John Morgan Jr",1,"2","male",8,"1","1",36.75,"C.A. 33112","Master","0-9",18.38,"Medio",4
+"551",551,"Thayer, Mr. John Borland Jr",1,"1","male",17,"0","2",110.8833,"17421","Mr","10-19",27.72,"Elevado",4
+"552",552,"Sharp, Mr. Percival James R",0,"2","male",27,"0","0",26,"244358","Mr","20-29",26,"Elevado",2
+"553",553,"O'Brien, Mr. Timothy",0,"3","male",32.3680904522613,"0","0",7.8292,"330979","Mr","30-39",7.83,"Medio",2
+"554",554,"Leeni, Mr. Fahim (""Philip Zenni"")",1,"3","male",22,"0","0",7.225,"2620","Mr","20-29",7.22,"Bajo",2
+"555",555,"Ohman, Miss. Velin",1,"3","female",22,"0","0",7.775,"347085","Miss","20-29",7.78,"Medio",2
+"556",556,"Wright, Mr. George",0,"1","male",62,"0","0",26.55,"113807","Mr","60-69",26.55,"Elevado",2
+"557",557,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",1,"1","female",48,"1","0",39.6,"11755","Other","40-49",39.6,"Elevado",3
+"558",558,"Robbins, Mr. Victor",0,"1","male",32.3680904522613,"0","0",227.525,"PC 17757","Mr","30-39",56.88,"Muy elevado",2
+"559",559,"Taussig, Mrs. Emil (Tillie Mandelbaum)",1,"1","female",39,"1","1",79.65,"110413","Mrs","30-39",26.55,"Elevado",4
+"560",560,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",1,"3","female",36,"1","0",17.4,"345572","Mrs","30-39",17.4,"Medio",3
+"561",561,"Morrow, Mr. Thomas Rowan",0,"3","male",32.3680904522613,"0","0",7.75,"372622","Mr","30-39",7.75,"Medio",2
+"562",562,"Sivic, Mr. Husein",0,"3","male",40,"0","0",7.8958,"349251","Mr","30-39",7.9,"Medio",2
+"563",563,"Norman, Mr. Robert Douglas",0,"2","male",28,"0","0",13.5,"218629","Mr","20-29",13.5,"Medio",2
+"564",564,"Simmons, Mr. John",0,"3","male",32.3680904522613,"0","0",8.05,"SOTON/OQ 392082","Mr","30-39",8.05,"Medio",2
+"565",565,"Meanwell, Miss. (Marion Ogden)",0,"3","female",21.7739726027397,"0","0",8.05,"SOTON/O.Q. 392087","Miss","20-29",8.05,"Medio",2
+"566",566,"Davies, Mr. Alfred J",0,"3","male",24,"2","0",24.15,"A/4 48871","Mr","20-29",12.07,"Medio",4
+"567",567,"Stoytcheff, Mr. Ilia",0,"3","male",19,"0","0",7.8958,"349205","Mr","10-19",7.9,"Medio",2
+"568",568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",0,"3","female",29,"0","4",21.075,"349909","Mrs","20-29",5.27,"Bajo",6
+"569",569,"Doharr, Mr. Tannous",0,"3","male",32.3680904522613,"0","0",7.2292,"2686","Mr","30-39",7.23,"Bajo",2
+"570",570,"Jonsson, Mr. Carl",1,"3","male",32,"0","0",7.8542,"350417","Mr","30-39",7.85,"Medio",2
+"571",571,"Harris, Mr. George",1,"2","male",62,"0","0",10.5,"S.W./PP 752","Mr","60-69",10.5,"Medio",2
+"572",572,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",1,"1","female",53,"2","0",51.4792,"11769","Mrs","50-59",51.48,"Muy elevado",4
+"573",573,"Flynn, Mr. John Irwin (""Irving"")",1,"1","male",36,"0","0",26.3875,"PC 17474","Mr","30-39",26.39,"Elevado",2
+"574",574,"Kelly, Miss. Mary",1,"3","female",21.7739726027397,"0","0",7.75,"14312","Miss","20-29",7.75,"Medio",2
+"575",575,"Rush, Mr. Alfred George John",0,"3","male",16,"0","0",8.05,"A/4. 20589","Mr","10-19",8.05,"Medio",2
+"576",576,"Patchett, Mr. George",0,"3","male",19,"0","0",14.5,"358585","Mr","10-19",7.25,"Bajo",2
+"577",577,"Garside, Miss. Ethel",1,"2","female",34,"0","0",13,"243880","Miss","30-39",13,"Medio",2
+"578",578,"Silvey, Mrs. William Baird (Alice Munger)",1,"1","female",39,"1","0",55.9,"13507","Mrs","30-39",27.95,"Elevado",3
+"579",579,"Caram, Mrs. Joseph (Maria Elias)",0,"3","female",35.8981481481481,"1","0",14.4583,"2689","Mrs","30-39",14.46,"Medio",3
+"580",580,"Jussila, Mr. Eiriik",1,"3","male",32,"0","0",7.925,"STON/O 2. 3101286","Mr","30-39",7.92,"Medio",2
+"581",581,"Christy, Miss. Julie Rachel",1,"2","female",25,"1","1",30,"237789","Miss","20-29",30,"Elevado",4
+"582",582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",1,"1","female",39,"1","1",110.8833,"17421","Mrs","30-39",27.72,"Elevado",4
+"583",583,"Downton, Mr. William James",0,"2","male",54,"0","0",26,"28403","Mr","50-59",13,"Medio",2
+"584",584,"Ross, Mr. John Hugo",0,"1","male",36,"0","0",40.125,"13049","Mr","30-39",40.12,"Elevado",2
+"585",585,"Paulner, Mr. Uscher",0,"3","male",32.3680904522613,"0","0",8.7125,"3411","Mr","30-39",8.71,"Medio",2
+"586",586,"Taussig, Miss. Ruth",1,"1","female",18,"0","2",79.65,"110413","Miss","10-19",26.55,"Elevado",4
+"587",587,"Jarvis, Mr. John Denzil",0,"2","male",47,"0","0",15,"237565","Mr","40-49",15,"Medio",2
+"588",588,"Frolicher-Stehli, Mr. Maxmillian",1,"1","male",60,"1","1",79.2,"13567","Mr","50-59",79.2,"Muy elevado",4
+"589",589,"Gilinski, Mr. Eliezer",0,"3","male",22,"0","0",8.05,"14973","Mr","20-29",8.05,"Medio",2
+"590",590,"Murdlin, Mr. Joseph",0,"3","male",32.3680904522613,"0","0",8.05,"A./5. 3235","Mr","30-39",8.05,"Medio",2
+"591",591,"Rintamaki, Mr. Matti",0,"3","male",35,"0","0",7.125,"STON/O 2. 3101273","Mr","30-39",7.12,"Bajo",2
+"592",592,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",1,"1","female",52,"1","0",78.2667,"36947","Mrs","50-59",39.13,"Elevado",3
+"593",593,"Elsbury, Mr. William James",0,"3","male",47,"0","0",7.25,"A/5 3902","Mr","40-49",7.25,"Bajo",2
+"594",594,"Bourke, Miss. Mary",0,"3","female",21.7739726027397,"0","2",7.75,"364848","Miss","20-29",7.75,"Medio",4
+"595",595,"Chapman, Mr. John Henry",0,"2","male",37,"1","0",26,"SC/AH 29037","Mr","30-39",26,"Elevado",3
+"596",596,"Van Impe, Mr. Jean Baptiste",0,"3","male",36,"1","1",24.15,"345773","Mr","30-39",8.05,"Medio",4
+"597",597,"Leitch, Miss. Jessie Wills",1,"2","female",21.7739726027397,"0","0",33,"248727","Miss","20-29",11,"Medio",2
+"598",598,"Johnson, Mr. Alfred",0,"3","male",49,"0","0",0,"LINE","Mr","40-49",0,NA,2
+"599",599,"Boulos, Mr. Hanna",0,"3","male",32.3680904522613,"0","0",7.225,"2664","Mr","30-39",7.22,"Bajo",2
+"600",600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",1,"1","male",49,"1","0",56.9292,"PC 17485","Other","40-49",28.46,"Elevado",3
+"601",601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",1,"2","female",24,"2","1",27,"243847","Mrs","20-29",13.5,"Medio",5
+"602",602,"Slabenoff, Mr. Petco",0,"3","male",32.3680904522613,"0","0",7.8958,"349214","Mr","30-39",7.9,"Medio",2
+"603",603,"Harrington, Mr. Charles H",0,"1","male",32.3680904522613,"0","0",42.4,"113796","Mr","30-39",42.4,"Elevado",2
+"604",604,"Torber, Mr. Ernst William",0,"3","male",44,"0","0",8.05,"364511","Mr","40-49",8.05,"Medio",2
+"605",605,"Homer, Mr. Harry (""Mr E Haven"")",1,"1","male",35,"0","0",26.55,"111426","Mr","30-39",26.55,"Elevado",2
+"606",606,"Lindell, Mr. Edvard Bengtsson",0,"3","male",36,"1","0",15.55,"349910","Mr","30-39",15.55,"Medio",3
+"607",607,"Karaic, Mr. Milan",0,"3","male",30,"0","0",7.8958,"349246","Mr","20-29",7.9,"Medio",2
+"608",608,"Daniel, Mr. Robert Williams",1,"1","male",27,"0","0",30.5,"113804","Mr","20-29",30.5,"Elevado",2
+"609",609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",1,"2","female",22,"1","2",41.5792,"SC/Paris 2123","Mrs","20-29",13.86,"Medio",5
+"610",610,"Shutes, Miss. Elizabeth W",1,"1","female",40,"0","0",153.4625,"PC 17582","Miss","30-39",51.15,"Muy elevado",2
+"611",611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",0,"3","female",39,"1","5",31.275,"347082","Mrs","30-39",4.47,"Bajo",8
+"612",612,"Jardin, Mr. Jose Neto",0,"3","male",32.3680904522613,"0","0",7.05,"SOTON/O.Q. 3101305","Mr","30-39",7.05,"Bajo",2
+"613",613,"Murphy, Miss. Margaret Jane",1,"3","female",21.7739726027397,"1","0",15.5,"367230","Miss","20-29",7.75,"Medio",3
+"614",614,"Horgan, Mr. John",0,"3","male",32.3680904522613,"0","0",7.75,"370377","Mr","30-39",7.75,"Medio",2
+"615",615,"Brocklebank, Mr. William Alfred",0,"3","male",35,"0","0",8.05,"364512","Mr","30-39",8.05,"Medio",2
+"616",616,"Herman, Miss. Alice",1,"2","female",24,"1","2",65,"220845","Miss","20-29",32.5,"Elevado",5
+"617",617,"Danbom, Mr. Ernst Gilbert",0,"3","male",34,"1","1",14.4,"347080","Mr","30-39",7.2,"Bajo",4
+"618",618,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",0,"3","female",26,"1","0",16.1,"A/5. 3336","Mrs","20-29",8.05,"Medio",3
+"619",619,"Becker, Miss. Marion Louise",1,"2","female",4,"2","1",39,"230136","Miss","0-9",19.5,"Medio",5
+"620",620,"Gavey, Mr. Lawrence",0,"2","male",26,"0","0",10.5,"31028","Mr","20-29",10.5,"Medio",2
+"621",621,"Yasbeck, Mr. Antoni",0,"3","male",27,"1","0",14.4542,"2659","Mr","20-29",7.23,"Bajo",3
+"622",622,"Kimball, Mr. Edwin Nelson Jr",1,"1","male",42,"1","0",52.5542,"11753","Mr","40-49",52.55,"Muy elevado",3
+"623",623,"Nakid, Mr. Sahid",1,"3","male",20,"1","1",15.7417,"2653","Mr","10-19",7.87,"Medio",4
+"624",624,"Hansen, Mr. Henry Damsgaard",0,"3","male",21,"0","0",7.8542,"350029","Mr","20-29",7.85,"Medio",2
+"625",625,"Bowen, Mr. David John ""Dai""",0,"3","male",21,"0","0",16.1,"54636","Mr","20-29",8.05,"Medio",2
+"626",626,"Sutton, Mr. Frederick",0,"1","male",61,"0","0",32.3208,"36963","Mr","60-69",32.32,"Elevado",2
+"627",627,"Kirkland, Rev. Charles Leonard",0,"2","male",57,"0","0",12.35,"219533","Other","50-59",12.35,"Medio",2
+"628",628,"Longley, Miss. Gretchen Fiske",1,"1","female",21,"0","0",77.9583,"13502","Miss","20-29",25.99,"Elevado",2
+"629",629,"Bostandyeff, Mr. Guentcho",0,"3","male",26,"0","0",7.8958,"349224","Mr","20-29",7.9,"Medio",2
+"630",630,"O'Connell, Mr. Patrick D",0,"3","male",32.3680904522613,"0","0",7.7333,"334912","Mr","30-39",7.73,"Medio",2
+"631",631,"Barkworth, Mr. Algernon Henry Wilson",1,"1","male",80,"0","0",30,"27042","Mr","70-80",30,"Elevado",2
+"632",632,"Lundahl, Mr. Johan Svensson",0,"3","male",51,"0","0",7.0542,"347743","Mr","50-59",7.05,"Bajo",2
+"633",633,"Stahelin-Maeglin, Dr. Max",1,"1","male",32,"0","0",30.5,"13214","Other","30-39",30.5,"Elevado",2
+"634",634,"Parr, Mr. William Henry Marsh",0,"1","male",32.3680904522613,"0","0",0,"112052","Mr","30-39",0,NA,2
+"635",635,"Skoog, Miss. Mabel",0,"3","female",9,"3","2",27.9,"347088","Miss","0-9",4.65,"Bajo",7
+"636",636,"Davis, Miss. Mary",1,"2","female",28,"0","0",13,"237668","Miss","20-29",13,"Medio",2
+"637",637,"Leinonen, Mr. Antti Gustaf",0,"3","male",32,"0","0",7.925,"STON/O 2. 3101292","Mr","30-39",7.92,"Medio",2
+"638",638,"Collyer, Mr. Harvey",0,"2","male",31,"1","1",26.25,"C.A. 31921","Mr","30-39",8.75,"Medio",4
+"639",639,"Panula, Mrs. Juha (Maria Emilia Ojala)",0,"3","female",41,"0","5",39.6875,"3101295","Mrs","40-49",6.61,"Bajo",7
+"640",640,"Thorneycroft, Mr. Percival",0,"3","male",32.3680904522613,"1","0",16.1,"376564","Mr","30-39",8.05,"Medio",3
+"641",641,"Jensen, Mr. Hans Peder",0,"3","male",20,"0","0",7.8542,"350050","Mr","10-19",7.85,"Medio",2
+"642",642,"Sagesser, Mlle. Emma",1,"1","female",24,"0","0",69.3,"PC 17477","Other","20-29",34.65,"Elevado",2
+"643",643,"Skoog, Miss. Margit Elizabeth",0,"3","female",2,"3","2",27.9,"347088","Miss","0-9",4.65,"Bajo",7
+"644",644,"Foo, Mr. Choong",1,"3","male",32.3680904522613,"0","0",56.4958,"1601","Mr","30-39",8.07,"Medio",2
+"645",645,"Baclini, Miss. Eugenie",1,"3","female",0.75,"2","1",19.2583,"2666","Miss","0-9",4.81,"Bajo",5
+"646",646,"Harper, Mr. Henry Sleeper",1,"1","male",48,"1","0",76.7292,"PC 17572","Mr","40-49",25.58,"Elevado",3
+"647",647,"Cor, Mr. Liudevit",0,"3","male",19,"0","0",7.8958,"349231","Mr","10-19",7.9,"Medio",2
+"648",648,"Simonius-Blumer, Col. Oberst Alfons",1,"1","male",56,"0","0",35.5,"13213","Other","50-59",35.5,"Elevado",2
+"649",649,"Willey, Mr. Edward",0,"3","male",32.3680904522613,"0","0",7.55,"S.O./P.P. 751","Mr","30-39",7.55,"Bajo",2
+"650",650,"Stanley, Miss. Amy Zillah Elsie",1,"3","female",23,"0","0",7.55,"CA. 2314","Miss","20-29",7.55,"Bajo",2
+"651",651,"Mitkoff, Mr. Mito",0,"3","male",32.3680904522613,"0","0",7.8958,"349221","Mr","30-39",7.9,"Medio",2
+"652",652,"Doling, Miss. Elsie",1,"2","female",18,"0","1",23,"231919","Miss","10-19",11.5,"Medio",3
+"653",653,"Kalvik, Mr. Johannes Halvorsen",0,"3","male",21,"0","0",8.4333,"8475","Mr","20-29",8.43,"Medio",2
+"654",654,"O'Leary, Miss. Hanora ""Norah""",1,"3","female",21.7739726027397,"0","0",7.8292,"330919","Miss","20-29",7.83,"Medio",2
+"655",655,"Hegarty, Miss. Hanora ""Nora""",0,"3","female",18,"0","0",6.75,"365226","Miss","10-19",6.75,"Bajo",2
+"656",656,"Hickman, Mr. Leonard Mark",0,"2","male",24,"2","0",73.5,"S.O.C. 14879","Mr","20-29",14.7,"Medio",4
+"657",657,"Radeff, Mr. Alexander",0,"3","male",32.3680904522613,"0","0",7.8958,"349223","Mr","30-39",7.9,"Medio",2
+"658",658,"Bourke, Mrs. John (Catherine)",0,"3","female",32,"1","1",15.5,"364849","Mrs","30-39",7.75,"Medio",4
+"659",659,"Eitemiller, Mr. George Floyd",0,"2","male",23,"0","0",13,"29751","Mr","20-29",13,"Medio",2
+"660",660,"Newell, Mr. Arthur Webster",0,"1","male",58,"0","2",113.275,"35273","Mr","50-59",37.76,"Elevado",4
+"661",661,"Frauenthal, Dr. Henry William",1,"1","male",50,"2","0",133.65,"PC 17611","Other","40-49",66.83,"Muy elevado",4
+"662",662,"Badt, Mr. Mohamed",0,"3","male",40,"0","0",7.225,"2623","Mr","30-39",7.22,"Bajo",2
+"663",663,"Colley, Mr. Edward Pomeroy",0,"1","male",47,"0","0",25.5875,"5727","Mr","40-49",25.59,"Elevado",2
+"664",664,"Coleff, Mr. Peju",0,"3","male",36,"0","0",7.4958,"349210","Mr","30-39",7.5,"Bajo",2
+"665",665,"Lindqvist, Mr. Eino William",1,"3","male",20,"1","0",7.925,"STON/O 2. 3101285","Mr","10-19",7.92,"Medio",3
+"666",666,"Hickman, Mr. Lewis",0,"2","male",32,"2","0",73.5,"S.O.C. 14879","Mr","30-39",14.7,"Medio",4
+"667",667,"Butler, Mr. Reginald Fenton",0,"2","male",25,"0","0",13,"234686","Mr","20-29",13,"Medio",2
+"668",668,"Rommetvedt, Mr. Knud Paust",0,"3","male",32.3680904522613,"0","0",7.775,"312993","Mr","30-39",7.78,"Medio",2
+"669",669,"Cook, Mr. Jacob",0,"3","male",43,"0","0",8.05,"A/5 3536","Mr","40-49",8.05,"Medio",2
+"670",670,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",1,"1","female",35.8981481481481,"1","0",52,"19996","Mrs","30-39",26,"Elevado",3
+"671",671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",1,"2","female",40,"1","1",39,"29750","Mrs","30-39",19.5,"Medio",4
+"672",672,"Davidson, Mr. Thornton",0,"1","male",31,"1","0",52,"F.C. 12750","Mr","30-39",52,"Muy elevado",3
+"673",673,"Mitchell, Mr. Henry Michael",0,"2","male",70,"0","0",10.5,"C.A. 24580","Mr","60-69",10.5,"Medio",2
+"674",674,"Wilhelms, Mr. Charles",1,"2","male",31,"0","0",13,"244270","Mr","30-39",13,"Medio",2
+"675",675,"Watson, Mr. Ennis Hastings",0,"2","male",32.3680904522613,"0","0",0,"239856","Mr","30-39",0,NA,2
+"676",676,"Edvardsson, Mr. Gustaf Hjalmar",0,"3","male",18,"0","0",7.775,"349912","Mr","10-19",7.78,"Medio",2
+"677",677,"Sawyer, Mr. Frederick Charles",0,"3","male",24.5,"0","0",8.05,"342826","Mr","20-29",8.05,"Medio",2
+"678",678,"Turja, Miss. Anna Sofia",1,"3","female",18,"0","0",9.8417,"4138","Miss","10-19",9.84,"Medio",2
+"679",679,"Goodwin, Mrs. Frederick (Augusta Tyler)",0,"3","female",43,"1","6",46.9,"CA 2144","Mrs","40-49",7.82,"Medio",9
+"680",680,"Cardeza, Mr. Thomas Drake Martinez",1,"1","male",36,"0","1",512.3292,"PC 17755","Mr","30-39",170.78,"Muy elevado",3
+"681",681,"Peters, Miss. Katie",0,"3","female",21.7739726027397,"0","0",8.1375,"330935","Miss","20-29",8.14,"Medio",2
+"682",682,"Hassab, Mr. Hammad",1,"1","male",27,"0","0",76.7292,"PC 17572","Mr","20-29",25.58,"Elevado",2
+"683",683,"Olsvigen, Mr. Thor Anderson",0,"3","male",20,"0","0",9.225,"6563","Mr","10-19",9.22,"Medio",2
+"684",684,"Goodwin, Mr. Charles Edward",0,"3","male",14,"5","2",46.9,"CA 2144","Mr","10-19",7.82,"Medio",9
+"685",685,"Brown, Mr. Thomas William Solomon",0,"2","male",60,"1","1",39,"29750","Mr","50-59",19.5,"Medio",4
+"686",686,"Laroche, Mr. Joseph Philippe Lemercier",0,"2","male",25,"1","2",41.5792,"SC/Paris 2123","Mr","20-29",13.86,"Medio",5
+"687",687,"Panula, Mr. Jaako Arnold",0,"3","male",14,"4","1",39.6875,"3101295","Mr","10-19",6.61,"Bajo",7
+"688",688,"Dakic, Mr. Branko",0,"3","male",19,"0","0",10.1708,"349228","Mr","10-19",10.17,"Medio",2
+"689",689,"Fischer, Mr. Eberhard Thelander",0,"3","male",18,"0","0",7.7958,"350036","Mr","10-19",7.8,"Medio",2
+"690",690,"Madill, Miss. Georgette Alexandra",1,"1","female",15,"0","1",211.3375,"24160","Miss","10-19",70.45,"Muy elevado",3
+"691",691,"Dick, Mr. Albert Adrian",1,"1","male",31,"1","0",57,"17474","Mr","30-39",28.5,"Elevado",3
+"692",692,"Karun, Miss. Manca",1,"3","female",4,"0","1",13.4167,"349256","Miss","0-9",13.42,"Medio",3
+"693",693,"Lam, Mr. Ali",1,"3","male",32.3680904522613,"0","0",56.4958,"1601","Mr","30-39",8.07,"Medio",2
+"694",694,"Saad, Mr. Khalil",0,"3","male",25,"0","0",7.225,"2672","Mr","20-29",7.22,"Bajo",2
+"695",695,"Weir, Col. John",0,"1","male",60,"0","0",26.55,"113800","Other","50-59",26.55,"Elevado",2
+"696",696,"Chapman, Mr. Charles Henry",0,"2","male",52,"0","0",13.5,"248731","Mr","50-59",13.5,"Medio",2
+"697",697,"Kelly, Mr. James",0,"3","male",44,"0","0",8.05,"363592","Mr","40-49",8.05,"Medio",2
+"698",698,"Mullens, Miss. Katherine ""Katie""",1,"3","female",21.7739726027397,"0","0",7.7333,"35852","Miss","20-29",7.73,"Medio",2
+"699",699,"Thayer, Mr. John Borland",0,"1","male",49,"1","1",110.8833,"17421","Mr","40-49",27.72,"Elevado",4
+"700",700,"Humblen, Mr. Adolf Mathias Nicolai Olsen",0,"3","male",42,"0","0",7.65,"348121","Mr","40-49",7.65,"Bajo",2
+"701",701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",1,"1","female",18,"1","0",227.525,"PC 17757","Mrs","10-19",56.88,"Muy elevado",3
+"702",702,"Silverthorne, Mr. Spencer Victor",1,"1","male",35,"0","0",26.2875,"PC 17475","Mr","30-39",26.29,"Elevado",2
+"703",703,"Barbara, Miss. Saiide",0,"3","female",18,"0","1",14.4542,"2691","Miss","10-19",7.23,"Bajo",3
+"704",704,"Gallagher, Mr. Martin",0,"3","male",25,"0","0",7.7417,"36864","Mr","20-29",7.74,"Medio",2
+"705",705,"Hansen, Mr. Henrik Juul",0,"3","male",26,"1","0",7.8542,"350025","Mr","20-29",7.85,"Medio",3
+"706",706,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",0,"2","male",39,"0","0",26,"250655","Mr","30-39",13,"Medio",2
+"707",707,"Kelly, Mrs. Florence ""Fannie""",1,"2","female",45,"0","0",13.5,"223596","Mrs","40-49",13.5,"Medio",2
+"708",708,"Calderhead, Mr. Edward Pennington",1,"1","male",42,"0","0",26.2875,"PC 17476","Mr","40-49",26.29,"Elevado",2
+"709",709,"Cleaver, Miss. Alice",1,"1","female",22,"0","0",151.55,"113781","Miss","20-29",37.89,"Elevado",2
+"710",710,"Moubarek, Master. Halim Gonios (""William George"")",1,"3","male",5,"1","1",15.2458,"2661","Master","0-9",7.62,"Bajo",4
+"711",711,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",1,"1","female",24,"0","0",49.5042,"PC 17482","Other","20-29",49.5,"Muy elevado",2
+"712",712,"Klaber, Mr. Herman",0,"1","male",32.3680904522613,"0","0",26.55,"113028","Mr","30-39",26.55,"Elevado",2
+"713",713,"Taylor, Mr. Elmer Zebley",1,"1","male",48,"1","0",52,"19996","Mr","40-49",26,"Elevado",3
+"714",714,"Larsson, Mr. August Viktor",0,"3","male",29,"0","0",9.4833,"7545","Mr","20-29",9.48,"Medio",2
+"715",715,"Greenberg, Mr. Samuel",0,"2","male",52,"0","0",13,"250647","Mr","50-59",6.5,"Bajo",2
+"716",716,"Soholt, Mr. Peter Andreas Lauritz Andersen",0,"3","male",19,"0","0",7.65,"348124","Mr","10-19",7.65,"Bajo",2
+"717",717,"Endres, Miss. Caroline Louise",1,"1","female",38,"0","0",227.525,"PC 17757","Miss","30-39",56.88,"Muy elevado",2
+"718",718,"Troutt, Miss. Edwina Celia ""Winnie""",1,"2","female",27,"0","0",10.5,"34218","Miss","20-29",10.5,"Medio",2
+"719",719,"McEvoy, Mr. Michael",0,"3","male",32.3680904522613,"0","0",15.5,"36568","Mr","30-39",15.5,"Medio",2
+"720",720,"Johnson, Mr. Malkolm Joackim",0,"3","male",33,"0","0",7.775,"347062","Mr","30-39",7.78,"Medio",2
+"721",721,"Harper, Miss. Annie Jessie ""Nina""",1,"2","female",6,"0","1",33,"248727","Miss","0-9",11,"Medio",3
+"722",722,"Jensen, Mr. Svend Lauritz",0,"3","male",17,"1","0",7.0542,"350048","Mr","10-19",7.05,"Bajo",3
+"723",723,"Gillespie, Mr. William Henry",0,"2","male",34,"0","0",13,"12233","Mr","30-39",13,"Medio",2
+"724",724,"Hodges, Mr. Henry Price",0,"2","male",50,"0","0",13,"250643","Mr","40-49",13,"Medio",2
+"725",725,"Chambers, Mr. Norman Campbell",1,"1","male",27,"1","0",53.1,"113806","Mr","20-29",26.55,"Elevado",3
+"726",726,"Oreskovic, Mr. Luka",0,"3","male",20,"0","0",8.6625,"315094","Mr","10-19",8.66,"Medio",2
+"727",727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",1,"2","female",30,"3","0",21,"31027","Mrs","20-29",10.5,"Medio",5
+"728",728,"Mannion, Miss. Margareth",1,"3","female",21.7739726027397,"0","0",7.7375,"36866","Miss","20-29",7.74,"Medio",2
+"729",729,"Bryhl, Mr. Kurt Arnold Gottfrid",0,"2","male",25,"1","0",26,"236853","Mr","20-29",26,"Elevado",3
+"730",730,"Ilmakangas, Miss. Pieta Sofia",0,"3","female",25,"1","0",7.925,"STON/O2. 3101271","Miss","20-29",7.92,"Medio",3
+"731",731,"Allen, Miss. Elisabeth Walton",1,"1","female",29,"0","0",211.3375,"24160","Miss","20-29",70.45,"Muy elevado",2
+"732",732,"Hassan, Mr. Houssein G N",0,"3","male",11,"0","0",18.7875,"2699","Mr","10-19",9.39,"Medio",2
+"733",733,"Knight, Mr. Robert J",0,"2","male",32.3680904522613,"0","0",0,"239855","Mr","30-39",0,NA,2
+"734",734,"Berriman, Mr. William John",0,"2","male",23,"0","0",13,"28425","Mr","20-29",13,"Medio",2
+"735",735,"Troupiansky, Mr. Moses Aaron",0,"2","male",23,"0","0",13,"233639","Mr","20-29",13,"Medio",2
+"736",736,"Williams, Mr. Leslie",0,"3","male",28.5,"0","0",16.1,"54636","Mr","20-29",8.05,"Medio",2
+"737",737,"Ford, Mrs. Edward (Margaret Ann Watson)",0,"3","female",48,"1","3",34.375,"W./C. 6608","Mrs","40-49",8.59,"Medio",6
+"738",738,"Lesurer, Mr. Gustave J",1,"1","male",35,"0","0",512.3292,"PC 17755","Mr","30-39",170.78,"Muy elevado",2
+"739",739,"Ivanoff, Mr. Kanio",0,"3","male",32.3680904522613,"0","0",7.8958,"349201","Mr","30-39",7.9,"Medio",2
+"740",740,"Nankoff, Mr. Minko",0,"3","male",32.3680904522613,"0","0",7.8958,"349218","Mr","30-39",7.9,"Medio",2
+"741",741,"Hawksford, Mr. Walter James",1,"1","male",32.3680904522613,"0","0",30,"16988","Mr","30-39",30,"Elevado",2
+"742",742,"Cavendish, Mr. Tyrell William",0,"1","male",36,"1","0",78.85,"19877","Mr","30-39",39.42,"Elevado",3
+"743",743,"Ryerson, Miss. Susan Parker ""Suzette""",1,"1","female",21,"2","2",262.375,"PC 17608","Miss","20-29",131.19,"Muy elevado",6
+"744",744,"McNamee, Mr. Neal",0,"3","male",24,"1","0",16.1,"376566","Mr","20-29",16.1,"Medio",3
+"745",745,"Stranden, Mr. Juho",1,"3","male",31,"0","0",7.925,"STON/O 2. 3101288","Mr","30-39",7.92,"Medio",2
+"746",746,"Crosby, Capt. Edward Gifford",0,"1","male",70,"1","1",71,"WE/P 5735","Other","60-69",35.5,"Elevado",4
+"747",747,"Abbott, Mr. Rossmore Edward",0,"3","male",16,"1","1",20.25,"C.A. 2673","Mr","10-19",10.12,"Medio",4
+"748",748,"Sinkkonen, Miss. Anna",1,"2","female",30,"0","0",13,"250648","Miss","20-29",13,"Medio",2
+"749",749,"Marvin, Mr. Daniel Warner",0,"1","male",19,"1","0",53.1,"113773","Mr","10-19",53.1,"Muy elevado",3
+"750",750,"Connaghton, Mr. Michael",0,"3","male",31,"0","0",7.75,"335097","Mr","30-39",7.75,"Medio",2
+"751",751,"Wells, Miss. Joan",1,"2","female",4,"1","1",23,"29103","Miss","0-9",23,"Medio",4
+"752",752,"Moor, Master. Meier",1,"3","male",6,"0","1",12.475,"392096","Master","0-9",6.24,"Bajo",3
+"753",753,"Vande Velde, Mr. Johannes Joseph",0,"3","male",33,"0","0",9.5,"345780","Mr","30-39",9.5,"Medio",2
+"754",754,"Jonkoff, Mr. Lalio",0,"3","male",23,"0","0",7.8958,"349204","Mr","20-29",7.9,"Medio",2
+"755",755,"Herman, Mrs. Samuel (Jane Laver)",1,"2","female",48,"1","2",65,"220845","Mrs","40-49",32.5,"Elevado",5
+"756",756,"Hamalainen, Master. Viljo",1,"2","male",0.67,"1","1",14.5,"250649","Master","0-9",7.25,"Bajo",4
+"757",757,"Carlsson, Mr. August Sigfrid",0,"3","male",28,"0","0",7.7958,"350042","Mr","20-29",7.8,"Medio",2
+"758",758,"Bailey, Mr. Percy Andrew",0,"2","male",18,"0","0",11.5,"29108","Mr","10-19",11.5,"Medio",2
+"759",759,"Theobald, Mr. Thomas Leonard",0,"3","male",34,"0","0",8.05,"363294","Mr","30-39",8.05,"Medio",2
+"760",760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",1,"1","female",33,"0","0",86.5,"110152","Other","30-39",28.83,"Elevado",2
+"761",761,"Garfirth, Mr. John",0,"3","male",32.3680904522613,"0","0",14.5,"358585","Mr","30-39",7.25,"Bajo",2
+"762",762,"Nirva, Mr. Iisakki Antino Aijo",0,"3","male",41,"0","0",7.125,"SOTON/O2 3101272","Mr","40-49",7.12,"Bajo",2
+"763",763,"Barah, Mr. Hanna Assi",1,"3","male",20,"0","0",7.2292,"2663","Mr","10-19",7.23,"Bajo",2
+"764",764,"Carter, Mrs. William Ernest (Lucile Polk)",1,"1","female",36,"1","2",120,"113760","Mrs","30-39",30,"Elevado",5
+"765",765,"Eklund, Mr. Hans Linus",0,"3","male",16,"0","0",7.775,"347074","Mr","10-19",7.78,"Medio",2
+"766",766,"Hogeboom, Mrs. John C (Anna Andrews)",1,"1","female",51,"1","0",77.9583,"13502","Mrs","50-59",25.99,"Elevado",3
+"767",767,"Brewe, Dr. Arthur Jackson",0,"1","male",42.3846153846154,"0","0",39.6,"112379","Other","40-49",39.6,"Elevado",2
+"768",768,"Mangan, Miss. Mary",0,"3","female",30.5,"0","0",7.75,"364850","Miss","30-39",7.75,"Medio",2
+"769",769,"Moran, Mr. Daniel J",0,"3","male",32.3680904522613,"1","0",24.15,"371110","Mr","30-39",8.05,"Medio",3
+"770",770,"Gronnestad, Mr. Daniel Danielsen",0,"3","male",32,"0","0",8.3625,"8471","Mr","30-39",8.36,"Medio",2
+"771",771,"Lievens, Mr. Rene Aime",0,"3","male",24,"0","0",9.5,"345781","Mr","20-29",9.5,"Medio",2
+"772",772,"Jensen, Mr. Niels Peder",0,"3","male",48,"0","0",7.8542,"350047","Mr","40-49",7.85,"Medio",2
+"773",773,"Mack, Mrs. (Mary)",0,"2","female",57,"0","0",10.5,"S.O./P.P. 3","Mrs","50-59",5.25,"Bajo",2
+"774",774,"Elias, Mr. Dibo",0,"3","male",32.3680904522613,"0","0",7.225,"2674","Mr","30-39",7.22,"Bajo",2
+"775",775,"Hocking, Mrs. Elizabeth (Eliza Needs)",1,"2","female",54,"1","3",23,"29105","Mrs","50-59",23,"Medio",6
+"776",776,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",0,"3","male",18,"0","0",7.75,"347078","Mr","10-19",7.75,"Medio",2
+"777",777,"Tobin, Mr. Roger",0,"3","male",32.3680904522613,"0","0",7.75,"383121","Mr","30-39",7.75,"Medio",2
+"778",778,"Emanuel, Miss. Virginia Ethel",1,"3","female",5,"0","0",12.475,"364516","Miss","0-9",6.24,"Bajo",2
+"779",779,"Kilgannon, Mr. Thomas J",0,"3","male",32.3680904522613,"0","0",7.7375,"36865","Mr","30-39",7.74,"Medio",2
+"780",780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",1,"1","female",43,"0","1",211.3375,"24160","Mrs","40-49",70.45,"Muy elevado",3
+"781",781,"Ayoub, Miss. Banoura",1,"3","female",13,"0","0",7.2292,"2687","Miss","10-19",7.23,"Bajo",2
+"782",782,"Dick, Mrs. Albert Adrian (Vera Gillespie)",1,"1","female",17,"1","0",57,"17474","Mrs","10-19",28.5,"Elevado",3
+"783",783,"Long, Mr. Milton Clyde",0,"1","male",29,"0","0",30,"113501","Mr","20-29",30,"Elevado",2
+"784",784,"Johnston, Mr. Andrew G",0,"3","male",32.3680904522613,"1","2",23.45,"W./C. 6607","Mr","30-39",11.72,"Medio",5
+"785",785,"Ali, Mr. William",0,"3","male",25,"0","0",7.05,"SOTON/O.Q. 3101312","Mr","20-29",7.05,"Bajo",2
+"786",786,"Harmer, Mr. Abraham (David Lishin)",0,"3","male",25,"0","0",7.25,"374887","Mr","20-29",7.25,"Bajo",2
+"787",787,"Sjoblom, Miss. Anna Sofia",1,"3","female",18,"0","0",7.4958,"3101265","Miss","10-19",7.5,"Bajo",2
+"788",788,"Rice, Master. George Hugh",0,"3","male",8,"4","1",29.125,"382652","Master","0-9",5.82,"Bajo",7
+"789",789,"Dean, Master. Bertram Vere",1,"3","male",1,"1","2",20.575,"C.A. 2315","Master","0-9",10.29,"Medio",5
+"790",790,"Guggenheim, Mr. Benjamin",0,"1","male",46,"0","0",79.2,"PC 17593","Mr","40-49",39.6,"Elevado",2
+"791",791,"Keane, Mr. Andrew ""Andy""",0,"3","male",32.3680904522613,"0","0",7.75,"12460","Mr","30-39",7.75,"Medio",2
+"792",792,"Gaskell, Mr. Alfred",0,"2","male",16,"0","0",26,"239865","Mr","10-19",13,"Medio",2
+"793",793,"Sage, Miss. Stella Anna",0,"3","female",21.7739726027397,"8","2",69.55,"CA. 2343","Miss","20-29",9.94,"Medio",10
+"794",794,"Hoyt, Mr. William Fisher",0,"1","male",32.3680904522613,"0","0",30.6958,"PC 17600","Mr","30-39",30.7,"Elevado",2
+"795",795,"Dantcheff, Mr. Ristiu",0,"3","male",25,"0","0",7.8958,"349203","Mr","20-29",7.9,"Medio",2
+"796",796,"Otter, Mr. Richard",0,"2","male",39,"0","0",13,"28213","Mr","30-39",13,"Medio",2
+"797",797,"Leader, Dr. Alice (Farnham)",1,"1","female",49,"0","0",25.9292,"17465","Other","40-49",25.93,"Elevado",2
+"798",798,"Osman, Mrs. Mara",1,"3","female",31,"0","0",8.6833,"349244","Mrs","30-39",8.68,"Medio",2
+"799",799,"Ibrahim Shawah, Mr. Yousseff",0,"3","male",30,"0","0",7.2292,"2685","Mr","20-29",7.23,"Bajo",2
+"800",800,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",0,"3","female",30,"1","1",24.15,"345773","Mrs","20-29",8.05,"Medio",4
+"801",801,"Ponesell, Mr. Martin",0,"2","male",34,"0","0",13,"250647","Mr","30-39",6.5,"Bajo",2
+"802",802,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",1,"2","female",31,"1","1",26.25,"C.A. 31921","Mrs","30-39",8.75,"Medio",4
+"803",803,"Carter, Master. William Thornton II",1,"1","male",11,"1","2",120,"113760","Master","10-19",30,"Elevado",5
+"804",804,"Thomas, Master. Assad Alexander",1,"3","male",0.42,"0","1",8.5167,"2625","Master","0-9",8.52,"Medio",3
+"805",805,"Hedman, Mr. Oskar Arvid",1,"3","male",27,"0","0",6.975,"347089","Mr","20-29",6.97,"Bajo",2
+"806",806,"Johansson, Mr. Karl Johan",0,"3","male",31,"0","0",7.775,"347063","Mr","30-39",7.78,"Medio",2
+"807",807,"Andrews, Mr. Thomas Jr",0,"1","male",39,"0","0",0,"112050","Mr","30-39",0,NA,2
+"808",808,"Pettersson, Miss. Ellen Natalia",0,"3","female",18,"0","0",7.775,"347087","Miss","10-19",7.78,"Medio",2
+"809",809,"Meyer, Mr. August",0,"2","male",39,"0","0",13,"248723","Mr","30-39",13,"Medio",2
+"810",810,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",1,"1","female",33,"1","0",53.1,"113806","Mrs","30-39",26.55,"Elevado",3
+"811",811,"Alexander, Mr. William",0,"3","male",26,"0","0",7.8875,"3474","Mr","20-29",7.89,"Medio",2
+"812",812,"Lester, Mr. James",0,"3","male",39,"0","0",24.15,"A/4 48871","Mr","30-39",12.07,"Medio",2
+"813",813,"Slemen, Mr. Richard James",0,"2","male",35,"0","0",10.5,"28206","Mr","30-39",10.5,"Medio",2
+"814",814,"Andersson, Miss. Ebba Iris Alfrida",0,"3","female",6,"4","2",31.275,"347082","Miss","0-9",4.47,"Bajo",8
+"815",815,"Tomlin, Mr. Ernest Portage",0,"3","male",30.5,"0","0",8.05,"364499","Mr","30-39",8.05,"Medio",2
+"816",816,"Fry, Mr. Richard",0,"1","male",32.3680904522613,"0","0",0,"112058","Mr","30-39",0,NA,2
+"817",817,"Heininen, Miss. Wendla Maria",0,"3","female",23,"0","0",7.925,"STON/O2. 3101290","Miss","20-29",7.92,"Medio",2
+"818",818,"Mallet, Mr. Albert",0,"2","male",31,"1","1",37.0042,"S.C./PARIS 2079","Mr","30-39",18.5,"Medio",4
+"819",819,"Holm, Mr. John Fredrik Alexander",0,"3","male",43,"0","0",6.45,"C 7075","Mr","40-49",6.45,"Bajo",2
+"820",820,"Skoog, Master. Karl Thorsten",0,"3","male",10,"3","2",27.9,"347088","Master","0-9",4.65,"Bajo",7
+"821",821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",1,"1","female",52,"1","1",93.5,"12749","Mrs","50-59",46.75,"Elevado",4
+"822",822,"Lulic, Mr. Nikola",1,"3","male",27,"0","0",8.6625,"315098","Mr","20-29",8.66,"Medio",2
+"823",823,"Reuchlin, Jonkheer. John George",0,"1","male",38,"0","0",0,"19972","Other","30-39",0,NA,2
+"824",824,"Moor, Mrs. (Beila)",1,"3","female",27,"0","1",12.475,"392096","Mrs","20-29",6.24,"Bajo",3
+"825",825,"Panula, Master. Urho Abraham",0,"3","male",2,"4","1",39.6875,"3101295","Master","0-9",6.61,"Bajo",7
+"826",826,"Flynn, Mr. John",0,"3","male",32.3680904522613,"0","0",6.95,"368323","Mr","30-39",6.95,"Bajo",2
+"827",827,"Lam, Mr. Len",0,"3","male",32.3680904522613,"0","0",56.4958,"1601","Mr","30-39",8.07,"Medio",2
+"828",828,"Mallet, Master. Andre",1,"2","male",1,"0","2",37.0042,"S.C./PARIS 2079","Master","0-9",18.5,"Medio",4
+"829",829,"McCormack, Mr. Thomas Joseph",1,"3","male",32.3680904522613,"0","0",7.75,"367228","Mr","30-39",7.75,"Medio",2
+"830",830,"Stone, Mrs. George Nelson (Martha Evelyn)",1,"1","female",62,"0","0",80,"113572","Mrs","60-69",40,"Elevado",2
+"831",831,"Yasbeck, Mrs. Antoni (Selini Alexander)",1,"3","female",15,"1","0",14.4542,"2659","Mrs","10-19",7.23,"Bajo",3
+"832",832,"Richards, Master. George Sibley",1,"2","male",0.83,"1","1",18.75,"29106","Master","0-9",6.25,"Bajo",4
+"833",833,"Saad, Mr. Amin",0,"3","male",32.3680904522613,"0","0",7.2292,"2671","Mr","30-39",7.23,"Bajo",2
+"834",834,"Augustsson, Mr. Albert",0,"3","male",23,"0","0",7.8542,"347468","Mr","20-29",7.85,"Medio",2
+"835",835,"Allum, Mr. Owen George",0,"3","male",18,"0","0",8.3,"2223","Mr","10-19",8.3,"Medio",2
+"836",836,"Compton, Miss. Sara Rebecca",1,"1","female",39,"1","1",83.1583,"PC 17756","Miss","30-39",83.16,"Muy elevado",4
+"837",837,"Pasic, Mr. Jakob",0,"3","male",21,"0","0",8.6625,"315097","Mr","20-29",8.66,"Medio",2
+"838",838,"Sirota, Mr. Maurice",0,"3","male",32.3680904522613,"0","0",8.05,"392092","Mr","30-39",8.05,"Medio",2
+"839",839,"Chip, Mr. Chang",1,"3","male",32,"0","0",56.4958,"1601","Mr","30-39",8.07,"Medio",2
+"840",840,"Marechal, Mr. Pierre",1,"1","male",32.3680904522613,"0","0",29.7,"11774","Mr","30-39",29.7,"Elevado",2
+"841",841,"Alhomaki, Mr. Ilmari Rudolf",0,"3","male",20,"0","0",7.925,"SOTON/O2 3101287","Mr","10-19",7.92,"Medio",2
+"842",842,"Mudd, Mr. Thomas Charles",0,"2","male",16,"0","0",10.5,"S.O./P.P. 3","Mr","10-19",5.25,"Bajo",2
+"843",843,"Serepeca, Miss. Augusta",1,"1","female",30,"0","0",31,"113798","Miss","20-29",15.5,"Medio",2
+"844",844,"Lemberopolous, Mr. Peter L",0,"3","male",34.5,"0","0",6.4375,"2683","Mr","30-39",6.44,"Bajo",2
+"845",845,"Culumovic, Mr. Jeso",0,"3","male",17,"0","0",8.6625,"315090","Mr","10-19",8.66,"Medio",2
+"846",846,"Abbing, Mr. Anthony",0,"3","male",42,"0","0",7.55,"C.A. 5547","Mr","40-49",7.55,"Bajo",2
+"847",847,"Sage, Mr. Douglas Bullen",0,"3","male",32.3680904522613,"8","2",69.55,"CA. 2343","Mr","30-39",9.94,"Medio",10
+"848",848,"Markoff, Mr. Marin",0,"3","male",35,"0","0",7.8958,"349213","Mr","30-39",7.9,"Medio",2
+"849",849,"Harper, Rev. John",0,"2","male",28,"0","1",33,"248727","Other","20-29",11,"Medio",3
+"850",850,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",1,"1","female",35.8981481481481,"1","0",89.1042,"17453","Mrs","30-39",44.55,"Elevado",3
+"851",851,"Andersson, Master. Sigvard Harald Elias",0,"3","male",4,"4","2",31.275,"347082","Master","0-9",4.47,"Bajo",8
+"852",852,"Svensson, Mr. Johan",0,"3","male",74,"0","0",7.775,"347060","Mr","70-80",7.78,"Medio",2
+"853",853,"Boulos, Miss. Nourelain",0,"3","female",9,"1","1",15.2458,"2678","Miss","0-9",7.62,"Bajo",4
+"854",854,"Lines, Miss. Mary Conover",1,"1","female",16,"0","1",39.4,"PC 17592","Miss","10-19",39.4,"Elevado",3
+"855",855,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",0,"2","female",44,"1","0",26,"244252","Mrs","40-49",13,"Medio",3
+"856",856,"Aks, Mrs. Sam (Leah Rosen)",1,"3","female",18,"0","1",9.35,"392091","Mrs","10-19",9.35,"Medio",3
+"857",857,"Wick, Mrs. George Dennick (Mary Hitchcock)",1,"1","female",45,"1","1",164.8667,"36928","Mrs","40-49",82.43,"Muy elevado",4
+"858",858,"Daly, Mr. Peter Denis ",1,"1","male",51,"0","0",26.55,"113055","Mr","50-59",26.55,"Elevado",2
+"859",859,"Baclini, Mrs. Solomon (Latifa Qurban)",1,"3","female",24,"0","3",19.2583,"2666","Mrs","20-29",4.81,"Bajo",5
+"860",860,"Razi, Mr. Raihed",0,"3","male",32.3680904522613,"0","0",7.2292,"2629","Mr","30-39",7.23,"Bajo",2
+"861",861,"Hansen, Mr. Claus Peter",0,"3","male",41,"2","0",14.1083,"350026","Mr","40-49",14.11,"Medio",4
+"862",862,"Giles, Mr. Frederick Edward",0,"2","male",21,"1","0",11.5,"28134","Mr","20-29",11.5,"Medio",3
+"863",863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",1,"1","female",48,"0","0",25.9292,"17466","Mrs","40-49",25.93,"Elevado",2
+"864",864,"Sage, Miss. Dorothy Edith ""Dolly""",0,"3","female",21.7739726027397,"8","2",69.55,"CA. 2343","Miss","20-29",9.94,"Medio",10
+"865",865,"Gill, Mr. John William",0,"2","male",24,"0","0",13,"233866","Mr","20-29",13,"Medio",2
+"866",866,"Bystrom, Mrs. (Karolina)",1,"2","female",42,"0","0",13,"236852","Mrs","40-49",13,"Medio",2
+"867",867,"Duran y More, Miss. Asuncion",1,"2","female",27,"1","0",13.8583,"SC/PARIS 2149","Miss","20-29",13.86,"Medio",3
+"868",868,"Roebling, Mr. Washington Augustus II",0,"1","male",31,"0","0",50.4958,"PC 17590","Mr","30-39",50.5,"Muy elevado",2
+"869",869,"van Melkebeke, Mr. Philemon",0,"3","male",32.3680904522613,"0","0",9.5,"345777","Mr","30-39",9.5,"Medio",2
+"870",870,"Johnson, Master. Harold Theodor",1,"3","male",4,"1","1",11.1333,"347742","Master","0-9",3.71,"Bajo",4
+"871",871,"Balkic, Mr. Cerin",0,"3","male",26,"0","0",7.8958,"349248","Mr","20-29",7.9,"Medio",2
+"872",872,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",1,"1","female",47,"1","1",52.5542,"11751","Mrs","40-49",26.28,"Elevado",4
+"873",873,"Carlsson, Mr. Frans Olof",0,"1","male",33,"0","0",5,"695","Mr","30-39",5,"Bajo",2
+"874",874,"Vander Cruyssen, Mr. Victor",0,"3","male",47,"0","0",9,"345765","Mr","40-49",9,"Medio",2
+"875",875,"Abelson, Mrs. Samuel (Hannah Wizosky)",1,"2","female",28,"1","0",24,"P/PP 3381","Mrs","20-29",12,"Medio",3
+"876",876,"Najib, Miss. Adele Kiamie ""Jane""",1,"3","female",15,"0","0",7.225,"2667","Miss","10-19",7.22,"Bajo",2
+"877",877,"Gustafsson, Mr. Alfred Ossian",0,"3","male",20,"0","0",9.8458,"7534","Mr","10-19",4.92,"Bajo",2
+"878",878,"Petroff, Mr. Nedelio",0,"3","male",19,"0","0",7.8958,"349212","Mr","10-19",7.9,"Medio",2
+"879",879,"Laleff, Mr. Kristo",0,"3","male",32.3680904522613,"0","0",7.8958,"349217","Mr","30-39",7.9,"Medio",2
+"880",880,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",1,"1","female",56,"0","1",83.1583,"11767","Mrs","50-59",41.58,"Elevado",3
+"881",881,"Shelley, Mrs. William (Imanita Parrish Hall)",1,"2","female",25,"0","1",26,"230433","Mrs","20-29",13,"Medio",3
+"882",882,"Markun, Mr. Johann",0,"3","male",33,"0","0",7.8958,"349257","Mr","30-39",7.9,"Medio",2
+"883",883,"Dahlberg, Miss. Gerda Ulrika",0,"3","female",22,"0","0",10.5167,"7552","Miss","20-29",10.52,"Medio",2
+"884",884,"Banfield, Mr. Frederick James",0,"2","male",28,"0","0",10.5,"C.A./SOTON 34068","Mr","20-29",10.5,"Medio",2
+"885",885,"Sutehall, Mr. Henry Jr",0,"3","male",25,"0","0",7.05,"SOTON/OQ 392076","Mr","20-29",7.05,"Bajo",2
+"886",886,"Rice, Mrs. William (Margaret Norton)",0,"3","female",39,"0","5",29.125,"382652","Mrs","30-39",5.82,"Bajo",7
+"887",887,"Montvila, Rev. Juozas",0,"2","male",27,"0","0",13,"211536","Other","20-29",13,"Medio",2
+"888",888,"Graham, Miss. Margaret Edith",1,"1","female",19,"0","0",30,"112053","Miss","10-19",30,"Elevado",2
+"889",889,"Johnston, Miss. Catherine Helen ""Carrie""",0,"3","female",21.7739726027397,"1","2",23.45,"W./C. 6607","Miss","20-29",11.72,"Medio",5
+"890",890,"Behr, Mr. Karl Howell",1,"1","male",26,"0","0",30,"111369","Mr","20-29",30,"Elevado",2
+"891",891,"Dooley, Mr. Patrick",0,"3","male",32,"0","0",7.75,"370376","Mr","30-39",7.75,"Medio",2
